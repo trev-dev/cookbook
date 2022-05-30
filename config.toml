@@ -1,4 +1,4 @@
-baseURL = "https://cookbook.trevdev.ca/"
+baseURL = "https://trev-dev.github.io/cookbook"
 languageCode = "en-us"
 title = "The Open Source Cookbook"
 theme = "hugo-cookbook"
