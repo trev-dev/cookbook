@@ -1,0 +1,4 @@
+baseURL = "https://cookbook.trevdev.ca/"
+languageCode = "en-us"
+title = "The Open Source Cookbook"
+theme = "cookbook"
