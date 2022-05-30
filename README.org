@@ -1,0 +1,41 @@
+* The Open Source Cookbook
+A collection of useful recipes made or found, contributed by people I know.
+
+This is a collaborative project for myself and anyone I know who cares enough about sharing recipes with me and cooking for one-another.
+
+It also serves as a neat way for me to practice using [[https://orgmode.org/][Org Mode]], [[https://ox-hugo.scripter.co/][ox-hugo]], [[https://gohugo.io/][Hugo]] and Github Pages for publishing something.
+
+Recipes are easily captured using a very cool Emacs package called [[https://github.com/Chobbes/org-chef][org-chef]].
+
+[[https://trev-dev.github.io/cookbook][View the published results]]
+
+** Contributing
+If you know me & you don't know how to use Github, send me the recipe somehow.
+
+Otherwise, if you wish to contribute, the recipes in this cookbook are organized and exported from an [[file:cookbook.org][Org File]]. Please fork this repository, add your recipe using the following format:
+
+#+BEGIN_SRC org
+** Recipe Title
+:PROPERTIES:
+:export_file_name: recipe-title
+:export_date: YYYY-MM-DD
+:export_hugo_custom_front_matter: :servings <int>
+:export_hugo_custom_front_matter+: :prep-time <int>
+:export_hugo_custom_front_matter+: :cook-time <int>
+:export_hugo_custom_front_matter+: :ready-in <int>
+:export_hugo_custom_front_matter+: :source-url https://example.com/recipe
+:export_author: Your Name
+:END:
+Any remarks about the recipe go here.
+
+*** Ingredients
+
+- unordered list of ingredients
+
+*** Directions
+
+1. Ordered list of instructions
+
+#+END_SRC
+
+Please keep in mind that I may want to try your recipe before accepting any pull requests.
