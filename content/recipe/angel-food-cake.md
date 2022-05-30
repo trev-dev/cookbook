@@ -2,9 +2,9 @@
 title: "Angel Food Cake"
 author: ["Trev"]
 date: 2022-04-06
-lastmod: 2022-05-30T16:31:33-07:00
+lastmod: 2022-05-30T16:38:31-07:00
 tags: ["GF"]
-categories: ["desserts"]
+categories: ["desserts", "baking"]
 draft: false
 servings: 16
 prep-time: 15

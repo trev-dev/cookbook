@@ -49,7 +49,7 @@ heated from frozen. Try them with any toppings you'd like.
 6. Repeat steps 3-5 until your batter is used up.
 
 * Desserts                                                        :@desserts:
-** Angel Food Cake                                                 :GF:
+** Angel Food Cake                                              :@baking:GF:
 :PROPERTIES:
 :export_file_name: angel-food-cake
 :export_date: 2022-04-06
