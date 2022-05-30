@@ -83,6 +83,29 @@ heated from frozen. Try them with any toppings you'd like.
 6. Repeat steps 3-5 until your batter is used up.
 
 * Dressings                                                       :@dressing:
+** Easy Coleslaw Dressing
+:PROPERTIES:
+:export_author: Linden
+:export_file_name: easy-coleslaw-dressing
+:export_hugo_custom_front_matter: :source-url https://www.allrecipes.com/recipe/240784/easy-coleslaw-dressing/
+:export_hugo_custom_front_matter+: :servings 6
+:export_hugo_custom_front_matter+: :prep-time 5
+:export_hugo_custom_front_matter+: :cook-time 0
+:export_hugo_custom_front_matter+: :ready-in 5
+:END:
+*** Ingredients
+
+- 1/2 cup mayonnaise
+- 2 tablespoons white sugar
+- 1  1/2 tablespoons lemon juice
+- 1 tablespoon vinegar
+- 1/2 teaspoon ground black pepper
+- 1/4 teaspoon salt
+  
+*** Directions
+
+1. Whisk mayonnaise, sugar, lemon juice, vinegar, pepper, and salt together in a bowl until smooth and creamy.
+  
 ** Mustard Vinaigrette
 :PROPERTIES:
 :export_file_name: mustard-vinaigrette
@@ -106,6 +129,7 @@ heated from frozen. Try them with any toppings you'd like.
 *** Directions
 
 1. In a small bowl, whisk together the vinegar, honey, mustard, pepper, salt, garlic, oil and hot sauce until thoroughly combined.  Chill until serving.
+  
 * Entrées                                                           :@entree:
 ** Asian Lettuce Wraps
 :PROPERTIES:
@@ -241,6 +265,48 @@ heated from frozen. Try them with any toppings you'd like.
 2. In a large skillet over medium heat, melt the butter and brown the beef strips quickly, then push the beef strips off to one side. Add the onions and cook slowly for 3 to 5 minutes, then push to the side with the beef strips.
 3. Stir the flour into the juices on the empty side of the pan. Pour in beef broth and bring to a boil, stirring constantly. Lower the heat and stir in mustard. Cover and simmer for 1 hour or until the meat is tender.
 4. Five minutes before serving, stir in the mushrooms, sour cream, and white wine. Heat briefly then salt and pepper to taste.
+
+** Butter Chicken
+:PROPERTIES:
+:export_author: Linden
+:export_file_name: butter-chicken
+:export_hugo_custom_front_matter: :source-url https://www.recipetineats.com/butter-chicken/
+:export_hugo_custom_front_matter+: :servings 3
+:export_hugo_custom_front_matter+: :prep-time 10
+:export_hugo_custom_front_matter+: :cook-time 25
+:export_hugo_custom_front_matter+: :ready-in 35
+:END:
+*** Ingredients
+Some basmati or white along with the stuff required to make the Marinade and Curry.
+
+**** Marinade
+
+- 1/2 cup plain yoghurt, full fat
+- 1 tbsp lemon juice
+- 1 tsp tumeric powder
+- 2 tsp garam masala (Note 1)
+- 1/2 tsp chilli powder or cayenne pepper powder (Note 2)
+- 1 tsp ground cumin
+- 1 tbsp ginger, freshly grated
+- 2 cloves garlic, crushed
+- 1.5 lb / 750 g chicken thigh fillets, cut into bite size pieces
+
+**** Curry
+
+- 2 tbsp (30 g) ghee or butter, OR 1 tbsp vegetable oil (Note 3)
+- 1 cup tomato passata (aka tomato puree) (Note 4)
+- 1 cup heavy / thickened cream (Note 5)
+- 1 tbsp sugar
+- 1 1/4 tsp salt
+
+*** Directions
+
+1. Optional blitz:  for an extra smooth sauce, combine the Marinade ingredients (except the chicken) in a food processor and blend until smooth. (I do not do this)
+2. Marinade:  Combine the Marinade ingredients with the chicken in a bowl. Cover and refrigerate overnight, or up to 24 hours (minimum 3 hrs).
+3. Cook chicken:  Heat the ghee (butter or oil) over high heat in a large fry pan. Take the chicken out of the Marinade but do not wipe or shake off the marinade from the chicken (but don't pour the Marinade left in the bowl into the fry pan).
+4. Place chicken in the fry pan and cook for around 3 minutes, or until the chicken is white all over (it doesn't really brown because of the Marinade).
+5. Sauce: Add the tomato passata, cream, sugar and salt. Also add any remaining marinade left in the bowl. Turn down to low and simmer for 20 minutes. Do a taste test to see if it needs more salt.
+6. Garnish with coriander/cilantro leaves if using. Serve with white/basmati rice.
 
 ** Crustless Mushroom Spinach Pie
 :PROPERTIES:
