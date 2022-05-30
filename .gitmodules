@@ -1,0 +1,3 @@
+[submodule "themes/hugo-cookbook"]
+	path = themes/hugo-cookbook
+	url = git@github.com:trev-dev/hugo-cookbook.git
