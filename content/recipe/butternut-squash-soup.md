@@ -1,7 +1,8 @@
 ---
 title: "Butternut Squash Soup"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:40-07:00
+date: 2019-12-30T00:00:00-08:00
+lastmod: 2022-05-30T19:58:43-07:00
 categories: ["soup"]
 draft: false
 servings: 4

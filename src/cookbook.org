@@ -1,7 +1,7 @@
 :PROPERTIES:
 #+STARTUP: overview inlineimages
 #+TAGS: @baking @breakfast @entree @side @soup @stew @sauce @dressing @desserts
-#+TAGS: GF(g)
+#+TAGS: GF(g) easy(e) fav(f)
 #+OPTIONS: toc:nil
 #+HUGO_BASE_DIR: /home/trevdev/Projects/os-cookbook/
 #+HUGO_SECTION: recipe
@@ -12,7 +12,8 @@
 #+AUTHOR: "Trev"
 * Baking                                                            :@baking:
 * Breakfasts                                                     :@breakfast:
-** Banana Pancakes
+** Banana Pancakes                                                :easy:fav:
+CLOSED: [2022-02-02 Wed]
 :PROPERTIES:
 :export_file_name: banana-pancakes
 :export_hugo_custom_front_matter: :servings 6
@@ -50,9 +51,9 @@ heated from frozen. Try them with any toppings you'd like.
 
 * Desserts                                                        :@desserts:
 ** Angel Food Cake                                              :@baking:GF:
+CLOSED: [2022-04-06 Wed 18:19]
 :PROPERTIES:
 :export_file_name: angel-food-cake
-:export_date: 2022-04-06
 :export_hugo_custom_front_matter: :servings 16
 :export_hugo_custom_front_matter+: :prep-time 15
 :export_hugo_custom_front_matter+: :cook-time 45
@@ -60,7 +61,9 @@ heated from frozen. Try them with any toppings you'd like.
 :export_hugo_custom_front_matter+: :source-url https://www.tasteofhome.com/recipes/gluten-free-angel-food-cake/
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2022-05-30 Mon 16:30]
+- State "DONE"       from              [2022-05-30 Mon 18:19]
+- State "DONE"       from "TODO"       [2022-05-30 Mon 18:19]
+- State "DONE"       from "TODO"       [2022-05-30 Mon 18:17]
 :END:
 
 #+CAPTION: A lovely angelfood cake. Probably not what mine will look like.
@@ -88,6 +91,7 @@ heated from frozen. Try them with any toppings you'd like.
 
 * Dressings                                                       :@dressing:
 ** Easy Coleslaw Dressing
+CLOSED: [2022-05-30 Mon]
 :PROPERTIES:
 :export_author: Linden
 :export_file_name: easy-coleslaw-dressing
@@ -111,6 +115,7 @@ heated from frozen. Try them with any toppings you'd like.
 1. Whisk mayonnaise, sugar, lemon juice, vinegar, pepper, and salt together in a bowl until smooth and creamy.
   
 ** Mustard Vinaigrette
+CLOSED: [2022-05-21 Sat]
 :PROPERTIES:
 :export_file_name: mustard-vinaigrette
 :export_hugo_custom_front_matter: :servings 12
@@ -136,6 +141,7 @@ heated from frozen. Try them with any toppings you'd like.
   
 * Entrées                                                           :@entree:
 ** Asian Lettuce Wraps
+CLOSED: [2022-03-30 Wed]
 :PROPERTIES:
 :export_file_name: asian-lettuce-wraps
 :export_hugo_custom_front_matter: :servings 4
@@ -173,6 +179,7 @@ heated from frozen. Try them with any toppings you'd like.
 8. Serve warm in lettuce leaves garnished with sliced green onions.
 
 ** BBQ Teriyaki Pork Kabobs
+CLOSED: [2022-03-22 Tue]
 :PROPERTIES:
 :export_file_name: bbq-teriyaki-pork-kabobs
 :export_hugo_custom_front_matter: :servings 6
@@ -207,6 +214,7 @@ heated from frozen. Try them with any toppings you'd like.
 4. Cook on grill for 15 minutes, or until meat is cooked through. Turn skewers, and baste often with sauce during cooking.
 
 ** Beef Shish Kebabs for Freezer Cooking
+CLOSED: [2022-03-22 Tue]
 :PROPERTIES:
 :export_file_name: beef-shish-kebabs-for-freezer-cooking
 :export_hugo_custom_front_matter: :servings 12
@@ -239,6 +247,7 @@ heated from frozen. Try them with any toppings you'd like.
 4. Cook the skewers on the preheated grill, turning occasionally until cooked to your desired degree of doneness, about 10 minutes total for medium-rare.
 
 ** Beef Stroganoff III
+CLOSED: [2022-04-22 Fri]
 :PROPERTIES:
 :export_file_name: beef-stroganoff-iii
 :export_hugo_custom_front_matter: :servings 6 to 8 servings
@@ -271,6 +280,7 @@ heated from frozen. Try them with any toppings you'd like.
 4. Five minutes before serving, stir in the mushrooms, sour cream, and white wine. Heat briefly then salt and pepper to taste.
 
 ** Butter Chicken
+CLOSED: [2022-05-30 Mon]
 :PROPERTIES:
 :export_author: Linden
 :export_file_name: butter-chicken
@@ -313,6 +323,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 6. Garnish with coriander/cilantro leaves if using. Serve with white/basmati rice.
 
 ** Crustless Mushroom Spinach Pie
+CLOSED: [2018-03-02 Fri]
 :PROPERTIES:
 :export_file_name: crustless-mushroom-spinach-pie
 :export_hugo_custom_front_matter: :servings 6 servings
@@ -353,6 +364,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 13. Stand 10 more minutes before slicing.
 
 ** Easy Slow Cooker Ham
+CLOSED: [2022-01-30 Sun]
 :PROPERTIES:
 :export_file_name: easy-slow-cooker-ham
 :export_hugo_custom_front_matter: :servings 12
@@ -381,6 +393,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 2. Pour the maple syrup over the ham. Season the apple cider with cinnamon, nutmeg, ginger, ground cloves and vanilla. Add the orange peel to the pot. Fill the slow cooker as full as you can with apple cider without going over the fill line. Cover and set to Low. Cook for 8 to 10 hours.
 
 ** Falafel
+CLOSED: [2020-05-30 Sat]
 :PROPERTIES:
 :export_file_name: falafel
 :export_hugo_custom_front_matter: :servings 6
@@ -423,6 +436,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 13. Here are some less traditional add-ons that are also tasty: sprouts, cucumber slices, roasted peppers, roasted eggplant slices, sunflower seeds, feta cheese, yogurt, tzatziki.
 
 ** Ultra Juicy Grilled BBQ Pork Chops
+CLOSED: [2022-03-02 Wed]
 :PROPERTIES:
 :export_file_name: ultra-juicy-grilled-bbq-pork-chops
 :export_hugo_custom_front_matter: :servings 6
@@ -456,8 +470,38 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 5. Cook 5-7 minutes longer until internal temperature reaches 140 degrees F or there is no longer any pink in the center. Allow to rest on a plate or cutting board – covered – for at least 5 minutes before serving – this is KEY to keeping the pork chops nice and juicy.
 6. Serve with remaining bbq sauce. Enjoy!
 
+** Roasted Spachcock Chicken                                      :easy:fav:
+CLOSED: [2021-05-30 Sun]
+:PROPERTIES:
+:export_file_name: roasted-spachcock-chicken
+:export_hugo_custom_front_matter: :servings 6
+:export_hugo_custom_front_matter+: :prep-time 5
+:export_hugo_custom_front_matter+: :cook-time 45
+:export_hugo_custom_front_matter+: :ready-in 50
+:END:
+This is a really simple way to feed a lot of guests, or have a lot of leftovers. Baked or roasted chicken is delicious. This recipe works well for a barbeque or oven-roasting.
+
+It's worth noting that this roasting and seasoning techiques work well for simple cuts of chicken such as breast, or thighs. I just enjoy doing a whole chicken as you get a lot of meat for the same effort.
+
+*** Ingredients
+
+- A whole chicken
+- The lazy kind of seasoned salt. Try to get the "no msg added" kind
+
+*** Directions
+
+1. Pre-heat your oven to 390 degrees farenheit, or start your barbeque.
+2. With a pair of kitchen shears, cut alongside the chicken's spine from front-to-back on both sides of the spine. The goal is to remove the spine entirely.
+3. Turn the chicken over and spread the now opened back of the chicken with your fingers. Use your thumbs to apply pressure to the sternum between the breasts on the front of the chicken. Apply enough pressure to hear the front of the ribs crack.
+4. Lay the chicken down with the inside facing down and use the palm of your hand to apply more pressure to the checks to ensure that the back-side of the chicken's ribs lay fully flat.
+5. Apply a generous amount of the seasoned salt to all areas of the chicken.
+6. If you're using an oven, cook the chicken for about 35-50 minutes, or until the internal temperature of the chicken is 160ish Farenheit. If you're aiming for the right temperature, be sure to test near the bone and watch for signs of raw chicken when you take the thermometer out.
+7. If you're using a barbeque, the directions are pretty much the same unless you're cooking with charcoal. Be extra diligent and take your time with roasting on charcoal, be sure to use a generous amount of charcoal brickettes/lumped coal. Charcoal grilling takes about an hour.
+8. Serve with any sides you like. I enjoy rice and roasted vegetables.
+
 * Sides                                                               :@side:
 ** Guacamole
+CLOSED: [2022-04-28 Thu]
 :PROPERTIES:
 :export_file_name: guacamole
 :export_hugo_custom_front_matter: :servings 4
@@ -481,7 +525,8 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 
 1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
-** Corn Bread
+** Corn Bread                                                      :@baking:
+CLOSED: [2022-05-08 Sun]
 :PROPERTIES:
 :export_file_name: corn-bread
 :export_hugo_custom_front_matter: :servings 8
@@ -515,6 +560,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 
 * Soups & Stews
 ** Butternut Squash Soup                                             :@soup:
+CLOSED: [2019-12-30 Mon]
 :PROPERTIES:
 :export_file_name: butternut-squash-soup
 :export_hugo_custom_front_matter: :servings 4
@@ -541,6 +587,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 3. Transfer the soup to a blender, and blend until smooth. Return to the pot, and mix in any remaining stock to reach desired consistency. Season with salt and pepper.
 
 ** Lentil Stew                                                       :@stew:
+CLOSED: [2016-05-30 Mon]
 :PROPERTIES:
 :export_file_name: lentil-stew
 :export_hugo_custom_front_matter: :servings 12
@@ -572,6 +619,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 5. Add tomatoes, celery & chickpeas. Cook for an additional 15 minutes.
 
 ** Quick and Easy Chicken Noodle Soup                                :@soup:
+CLOSED: [2022-01-30 Sun]
 :PROPERTIES:
 :export_file_name: quick-and-easy-chicken-noodle-soup
 :export_hugo_custom_front_matter: :servings 6
@@ -579,6 +627,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 :export_hugo_custom_front_matter+: :cook-time 30
 :export_hugo_custom_front_matter+: :ready-in 40
 :export_hugo_custom_front_matter+: :source-url https://www.allrecipes.com/recipe/26460/quick-and-easy-chicken-noodle-soup/
+
 :END:
 *** Ingredients
 
@@ -601,6 +650,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 3. Reduce heat and simmer for 20 minutes.
 
 ** Slow Cooker Beef Stew                                             :@stew:
+CLOSED: [2022-05-28 Sat]
 :PROPERTIES:
 :export_file_name: slow-cooker-beef-stew
 :export_hugo_custom_front_matter: :servings 6
@@ -634,6 +684,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 
 * Sauces                                                             :@sauce:
 ** Easy Pizza Sauce I
+CLOSED: [2022-03-02 Wed]
 :PROPERTIES:
 :export_file_name: easy-pizza-sauce-i
 :export_hugo_custom_front_matter: :servings 8
@@ -659,6 +710,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 1. Mix together the tomato paste, water, and olive oil. Mix well. Add garlic, salt and pepper to taste, oregano, basil, and rosemary. Mix well and let stand several hours to let flavors blend. No cooking necessary, just spread on dough.
 
 ** Homemade Hoisin Sauce
+CLOSED: [2022-03-02 Wed]
 :PROPERTIES:
 :export_file_name: homemade-hoisin-sauce
 :export_hugo_custom_front_matter: :servings 1 1/2 cup
@@ -682,7 +734,8 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 
 1. Whisk soy sauce, peanut butter, brown sugar, rice wine vinegar, sesame oil, hot sauce, garlic, and black pepper together in a large bowl.
 
-** Peanut Dipping Sauce
+** Peanut Dipping Sauce                                                :fav:
+CLOSED: [2021-05-30 Sun]
 :PROPERTIES:
 :export_file_name: peanut-dipping-sauce
 :export_hugo_custom_front_matter: :servings 5
@@ -691,6 +744,8 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 :export_hugo_custom_front_matter+: :ready-in 5
 :export_hugo_custom_front_matter+: :source-url https://cookieandkate.com/peanut-dipping-sauce/
 :END:
+My family goes nuts for this peanut sauce. Pun intended. It is probably the strong driver of Asian inspired meals in my home.
+
 *** Ingredients
 - 3/4 cup creamy peanut butter
 - 1/4 cup rice vinegar
@@ -708,6 +763,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 3. If you're serving the sauce as a party dip, transfer it to a serving bowl and sprinkle with chopped peanuts and red pepper flakes for some visual interest!
 
 ** Steak Sauce
+CLOSED: [2022-03-22 Tue]
 :PROPERTIES:
 :export_file_name: steak-sauce
 :export_hugo_custom_front_matter: :servings 12
@@ -730,7 +786,8 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 *** Directions
 1. In a medium bowl, mix together the ketchup, mustard, Worcestershire sauce, vinegar, hot pepper sauce, salt and pepper. Transfer to a jar and refrigerate until needed.
 
-** Worchestershire Sauce                                                :GF:
+** Worchestershire Sauce                                            :GF:fav:
+CLOSED: [2020-01-30 Thu]
 :PROPERTIES:
 :export_file_name: worchestershire-sauce
 :export_hugo_custom_front_matter: :servings 5
@@ -739,6 +796,8 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 :export_hugo_custom_front_matter+: :ready-in 5
 :export_hugo_custom_front_matter+: :source-url https://everydayglutenfreegourmet.ca/recipe/homemade-gluten-free-worcestershire-sauce/
 :END:
+Need a solution for seasoning red meat that won't hurt a celiac person? Look no further than here.
+
 *** Ingredients
 
 - 1/2 cup apple cider vinegar

@@ -1,7 +1,8 @@
 ---
 title: "Guacamole"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:39-07:00
+date: 2022-04-28T00:00:00-07:00
+lastmod: 2022-05-30T19:58:42-07:00
 categories: ["side"]
 draft: false
 servings: 4

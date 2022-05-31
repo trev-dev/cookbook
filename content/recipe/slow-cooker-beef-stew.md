@@ -1,7 +1,8 @@
 ---
 title: "Slow Cooker Beef Stew"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:40-07:00
+date: 2022-05-28T00:00:00-07:00
+lastmod: 2022-05-30T19:58:44-07:00
 categories: ["stew"]
 draft: false
 servings: 6

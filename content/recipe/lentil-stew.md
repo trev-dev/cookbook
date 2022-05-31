@@ -1,7 +1,8 @@
 ---
 title: "Lentil Stew"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:40-07:00
+date: 2016-05-30T00:00:00-07:00
+lastmod: 2022-05-30T19:58:43-07:00
 categories: ["stew"]
 draft: false
 servings: 12

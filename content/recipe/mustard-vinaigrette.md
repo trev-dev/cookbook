@@ -1,13 +1,14 @@
 ---
 title: "Mustard Vinaigrette"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:37-07:00
+date: 2022-05-21T00:00:00-07:00
+lastmod: 2022-05-30T19:58:39-07:00
 categories: ["dressing"]
 draft: false
 servings: 12
 prep-time: 5
 cook-time: 0
-ready-in: 0
+ready-in: 5
 source-url: "https://www.allrecipes.com/recipe/24609/mustard-vinaigrette/"
 ---
 

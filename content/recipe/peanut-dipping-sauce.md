@@ -1,7 +1,9 @@
 ---
 title: "Peanut Dipping Sauce"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:41-07:00
+date: 2021-05-30T00:00:00-07:00
+lastmod: 2022-05-30T19:58:45-07:00
+tags: ["fav"]
 categories: ["sauce"]
 draft: false
 servings: 5
@@ -10,6 +12,9 @@ cook-time: 0
 ready-in: 5
 source-url: "https://cookieandkate.com/peanut-dipping-sauce/"
 ---
+
+My family goes nuts for this peanut sauce. Pun intended. It is probably the strong driver of Asian inspired meals in my home.
+
 
 ## Ingredients {#ingredients}
 

@@ -1,8 +1,8 @@
 ---
 title: "Angel Food Cake"
 author: ["Trev"]
-date: 2022-04-06
-lastmod: 2022-05-30T17:37:35-07:00
+date: 2022-04-06T18:19:00-07:00
+lastmod: 2022-05-30T19:58:38-07:00
 tags: ["GF"]
 categories: ["desserts", "baking"]
 draft: false

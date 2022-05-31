@@ -1,8 +1,9 @@
 ---
 title: "Worchestershire Sauce"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:41-07:00
-tags: ["GF"]
+date: 2020-01-30T00:00:00-08:00
+lastmod: 2022-05-30T19:58:45-07:00
+tags: ["GF", "fav"]
 categories: ["sauce"]
 draft: false
 servings: 5
@@ -11,6 +12,9 @@ cook-time: 0
 ready-in: 5
 source-url: "https://everydayglutenfreegourmet.ca/recipe/homemade-gluten-free-worcestershire-sauce/"
 ---
+
+Need a solution for seasoning red meat that won't hurt a celiac person? Look no further than here.
+
 
 ## Ingredients {#ingredients}
 

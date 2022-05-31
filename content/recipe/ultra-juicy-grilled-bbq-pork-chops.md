@@ -1,7 +1,8 @@
 ---
 title: "Ultra Juicy Grilled BBQ Pork Chops"
 author: ["Trev"]
-lastmod: 2022-05-30T11:03:39-07:00
+date: 2022-03-02T00:00:00-08:00
+lastmod: 2022-05-30T19:58:42-07:00
 categories: ["entree"]
 draft: false
 servings: 6
