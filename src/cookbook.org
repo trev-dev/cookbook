@@ -109,11 +109,11 @@ CLOSED: [2022-05-30 Mon]
 - 1 tablespoon vinegar
 - 1/2 teaspoon ground black pepper
 - 1/4 teaspoon salt
-  
+
 *** Directions
 
 1. Whisk mayonnaise, sugar, lemon juice, vinegar, pepper, and salt together in a bowl until smooth and creamy.
-  
+
 ** Mustard Vinaigrette
 CLOSED: [2022-05-21 Sat]
 :PROPERTIES:
@@ -138,7 +138,7 @@ CLOSED: [2022-05-21 Sat]
 *** Directions
 
 1. In a small bowl, whisk together the vinegar, honey, mustard, pepper, salt, garlic, oil and hot sauce until thoroughly combined.  Chill until serving.
-  
+
 * Entrées                                                           :@entree:
 ** Asian Lettuce Wraps
 CLOSED: [2022-03-30 Wed]
@@ -526,7 +526,7 @@ CLOSED: [2022-03-02 Wed]
 ** Roasted Spachcock Chicken                                      :easy:fav:
 CLOSED: [2021-05-30 Sun]
 :PROPERTIES:
-:export_file_name: roasted-spachcock-chicken
+:export_file_name: roasted-spachcock
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 5
 :export_hugo_custom_front_matter+: :cook-time 45
@@ -553,31 +553,6 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 8. Serve with any sides you like. I enjoy rice and roasted vegetables.
 
 * Sides                                                               :@side:
-** Guacamole
-CLOSED: [2022-04-28 Thu]
-:PROPERTIES:
-:export_file_name: guacamole
-:export_hugo_custom_front_matter: :servings 4
-:export_hugo_custom_front_matter+: :prep-time 10
-:export_hugo_custom_front_matter+: :cook-time 0
-:export_hugo_custom_front_matter+: :ready-in 10
-:export_hugo_custom_front_matter+: :source-url https://www.allrecipes.com/recipe/14231/guacamole/
-:END:
-*** Ingredients
-
-- 3 avocados - peeled, pitted, and mashed
-- 1 lime, juiced
-- 1 teaspoon salt
-- 1/2 cup diced onion
-- 3 tablespoons chopped fresh cilantro
-- 2 roma (plum) tomatoes, diced
-- 1 teaspoon minced garlic
-- 1 pinch ground cayenne pepper
-
-*** Directions
-
-1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
-
 ** Corn Bread                                                      :@baking:
 CLOSED: [2022-05-08 Sun]
 :PROPERTIES:
@@ -610,6 +585,31 @@ CLOSED: [2022-05-08 Sun]
 1. In a medium bowl stir together cornmeal, flour, sugar, baking powder, and salt; set aside.
 2. Heat a 1/2 inch of some vegetable oil in a cast iron skillet. Once hot, glob the batter into the skillet.
 3. Cook turn over the cornbread until it is nice and crispy.
+
+** Guacamole
+CLOSED: [2022-04-28 Thu]
+:PROPERTIES:
+:export_file_name: guacamole
+:export_hugo_custom_front_matter: :servings 4
+:export_hugo_custom_front_matter+: :prep-time 10
+:export_hugo_custom_front_matter+: :cook-time 0
+:export_hugo_custom_front_matter+: :ready-in 10
+:export_hugo_custom_front_matter+: :source-url https://www.allrecipes.com/recipe/14231/guacamole/
+:END:
+*** Ingredients
+
+- 3 avocados - peeled, pitted, and mashed
+- 1 lime, juiced
+- 1 teaspoon salt
+- 1/2 cup diced onion
+- 3 tablespoons chopped fresh cilantro
+- 2 roma (plum) tomatoes, diced
+- 1 teaspoon minced garlic
+- 1 pinch ground cayenne pepper
+
+*** Directions
+
+1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
 ** Dill Pickles
 CLOSED: [2022-05-31 Tue]
