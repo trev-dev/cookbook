@@ -64,7 +64,7 @@ heated from frozen. Try them with any toppings you'd like.
 :END:
 
 #+CAPTION: A lovely angelfood cake. Probably not what mine will look like.
-[[file:images/angelfood.jpg]]
+[[file:static/angelfood.jpg]]
 
 *** Ingredients
 

@@ -2,7 +2,7 @@
 title: "Angel Food Cake"
 author: ["Trev"]
 date: 2022-04-06
-lastmod: 2022-05-30T16:38:31-07:00
+lastmod: 2022-05-30T17:37:35-07:00
 tags: ["GF"]
 categories: ["desserts", "baking"]
 draft: false
@@ -13,7 +13,7 @@ ready-in: 60
 source-url: "https://www.tasteofhome.com/recipes/gluten-free-angel-food-cake/"
 ---
 
-{{< figure src="/ox-hugo/angelfood.jpg" caption="<span class=\"figure-number\">Figure 1: </span>A lovely angelfood cake. Probably not what mine will look like." >}}
+{{< figure src="/angelfood.jpg" caption="<span class=\"figure-number\">Figure 1: </span>A lovely angelfood cake. Probably not what mine will look like." >}}
 
 
 ## Ingredients {#ingredients}
