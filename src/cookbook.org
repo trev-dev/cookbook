@@ -612,7 +612,7 @@ CLOSED: [2022-04-28 Thu]
 1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
 ** Dill Pickles
-CLOSED: [2022-05-31 Tue]
+CLOSED: [2022-06-01 Wed]
 :PROPERTIES:
 :export_file_name: dill-pickles
 :export_author: Scavello

@@ -2,7 +2,6 @@
 title: "Homemade Hoisin Sauce"
 author: ["Trev"]
 date: 2022-03-02T00:00:00-08:00
-lastmod: 2022-05-30T19:58:44-07:00
 categories: ["sauce"]
 draft: false
 servings: "1 1/2 cup"

@@ -2,7 +2,6 @@
 title: "Banana Pancakes"
 author: ["Roonie"]
 date: 2022-02-02T00:00:00-08:00
-lastmod: 2022-05-30T19:58:38-07:00
 tags: ["easy", "fav"]
 categories: ["breakfast"]
 draft: false

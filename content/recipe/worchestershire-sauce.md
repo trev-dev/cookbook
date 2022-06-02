@@ -2,7 +2,6 @@
 title: "Worchestershire Sauce"
 author: ["Trev"]
 date: 2020-01-30T00:00:00-08:00
-lastmod: 2022-05-30T19:58:45-07:00
 tags: ["GF", "fav"]
 categories: ["sauce"]
 draft: false

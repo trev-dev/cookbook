@@ -2,7 +2,6 @@
 title: "Mustard Vinaigrette"
 author: ["Trev"]
 date: 2022-05-21T00:00:00-07:00
-lastmod: 2022-05-30T19:58:39-07:00
 categories: ["dressing"]
 draft: false
 servings: 12

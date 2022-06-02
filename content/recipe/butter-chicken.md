@@ -2,7 +2,6 @@
 title: "Butter Chicken"
 author: ["Linden"]
 date: 2022-05-30T00:00:00-07:00
-lastmod: 2022-05-30T19:58:41-07:00
 categories: ["entree"]
 draft: false
 source-url: "https://www.recipetineats.com/butter-chicken/"

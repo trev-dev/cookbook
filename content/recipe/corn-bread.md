@@ -2,7 +2,6 @@
 title: "Corn Bread"
 author: ["Linden"]
 date: 2022-05-08T00:00:00-07:00
-lastmod: 2022-05-30T19:58:43-07:00
 categories: ["side", "baking"]
 draft: false
 servings: 8

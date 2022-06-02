@@ -2,7 +2,6 @@
 title: "Steak Sauce"
 author: ["Trev"]
 date: 2022-03-22T00:00:00-07:00
-lastmod: 2022-05-30T19:58:45-07:00
 categories: ["sauce"]
 draft: false
 servings: 12

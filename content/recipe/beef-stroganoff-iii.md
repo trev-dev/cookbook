@@ -2,7 +2,6 @@
 title: "Beef Stroganoff III"
 author: ["Trev"]
 date: 2022-04-22T00:00:00-07:00
-lastmod: 2022-05-30T19:58:40-07:00
 categories: ["entree"]
 draft: false
 servings: "6 to 8 servings"
