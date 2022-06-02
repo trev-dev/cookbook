@@ -526,7 +526,7 @@ CLOSED: [2022-03-02 Wed]
 ** Roasted Spachcock Chicken                                      :easy:fav:
 CLOSED: [2021-05-30 Sun]
 :PROPERTIES:
-:export_file_name: roasted-spachcock
+:export_file_name: roasted-spachcock-chicken
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 5
 :export_hugo_custom_front_matter+: :cook-time 45
