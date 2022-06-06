@@ -5,7 +5,6 @@
 #+OPTIONS: toc:nil
 #+HUGO_BASE_DIR: /home/trevdev/Projects/os-cookbook/
 #+HUGO_SECTION: recipe
-#+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_FRONT_MATTER_FORMAT: yaml
 :END:
 #+TITLE: Open Source Cookbook
