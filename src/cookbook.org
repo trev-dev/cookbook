@@ -12,8 +12,8 @@
 * Baking                                                            :@baking:
 * Breakfasts                                                     :@breakfast:
 ** Banana Pancakes                                                :easy:fav:
-CLOSED: [2022-02-02 Wed]
 :PROPERTIES:
+:export_date: [2022-02-02 Wed]
 :export_file_name: banana-pancakes
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 5
@@ -50,8 +50,8 @@ heated from frozen. Try them with any toppings you'd like.
 
 * Desserts                                                        :@desserts:
 ** Angel Food Cake                                              :@baking:GF:
-CLOSED: [2022-04-06 Wed 18:19]
 :PROPERTIES:
+:export_date: [2022-04-06 Wed 18:19]
 :export_file_name: angel-food-cake
 :export_hugo_custom_front_matter: :servings 16
 :export_hugo_custom_front_matter+: :prep-time 15
@@ -90,8 +90,8 @@ CLOSED: [2022-04-06 Wed 18:19]
 
 * Dressings                                                       :@dressing:
 ** Easy Coleslaw Dressing
-CLOSED: [2022-05-30 Mon]
 :PROPERTIES:
+:export_date: [2022-05-30 Mon]
 :export_author: Linden
 :export_file_name: easy-coleslaw-dressing
 :export_hugo_custom_front_matter: :source-url https://www.allrecipes.com/recipe/240784/easy-coleslaw-dressing/
@@ -114,8 +114,8 @@ CLOSED: [2022-05-30 Mon]
 1. Whisk mayonnaise, sugar, lemon juice, vinegar, pepper, and salt together in a bowl until smooth and creamy.
 
 ** Mustard Vinaigrette
-CLOSED: [2022-05-21 Sat]
 :PROPERTIES:
+:export_date: [2022-05-21 Sat]
 :export_file_name: mustard-vinaigrette
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 5
@@ -140,8 +140,8 @@ CLOSED: [2022-05-21 Sat]
 
 * Entrées                                                           :@entree:
 ** Asian Lettuce Wraps
-CLOSED: [2022-03-30 Wed]
 :PROPERTIES:
+:export_date: [2022-03-30 Wed]
 :export_file_name: asian-lettuce-wraps
 :export_hugo_custom_front_matter: :servings 4
 :export_hugo_custom_front_matter+: :prep-time 10
@@ -178,8 +178,8 @@ CLOSED: [2022-03-30 Wed]
 8. Serve warm in lettuce leaves garnished with sliced green onions.
 
 ** BBQ Teriyaki Pork Kabobs
-CLOSED: [2022-03-22 Tue]
 :PROPERTIES:
+:export_date: [2022-03-22 Tue]
 :export_file_name: bbq-teriyaki-pork-kabobs
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 30
@@ -213,8 +213,8 @@ CLOSED: [2022-03-22 Tue]
 4. Cook on grill for 15 minutes, or until meat is cooked through. Turn skewers, and baste often with sauce during cooking.
 
 ** Beef Shish Kebabs for Freezer Cooking
-CLOSED: [2022-03-22 Tue]
 :PROPERTIES:
+:export_date: [2022-03-22 Tue]
 :export_file_name: beef-shish-kebabs-for-freezer-cooking
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 20
@@ -246,8 +246,8 @@ CLOSED: [2022-03-22 Tue]
 4. Cook the skewers on the preheated grill, turning occasionally until cooked to your desired degree of doneness, about 10 minutes total for medium-rare.
 
 ** Beef Stroganoff III
-CLOSED: [2022-04-22 Fri]
 :PROPERTIES:
+:export_date: [2022-04-22 Fri]
 :export_file_name: beef-stroganoff-iii
 :export_hugo_custom_front_matter: :servings 6 to 8 servings
 :export_hugo_custom_front_matter+: :prep-time 30 minutes
@@ -279,8 +279,8 @@ CLOSED: [2022-04-22 Fri]
 4. Five minutes before serving, stir in the mushrooms, sour cream, and white wine. Heat briefly then salt and pepper to taste.
 
 ** Butter Chicken
-CLOSED: [2022-05-30 Mon]
 :PROPERTIES:
+:export_date: [2022-05-30 Mon]
 :export_author: Linden
 :export_file_name: butter-chicken
 :export_hugo_custom_front_matter: :source-url https://www.recipetineats.com/butter-chicken/
@@ -363,8 +363,8 @@ CLOSED: [2018-03-02 Fri]
 13. Stand 10 more minutes before slicing.
 
 ** Easy Slow Cooker Ham
-CLOSED: [2022-01-30 Sun]
 :PROPERTIES:
+:export_date: [2022-01-30 Sun]
 :export_file_name: easy-slow-cooker-ham
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 15
@@ -392,8 +392,8 @@ CLOSED: [2022-01-30 Sun]
 2. Pour the maple syrup over the ham. Season the apple cider with cinnamon, nutmeg, ginger, ground cloves and vanilla. Add the orange peel to the pot. Fill the slow cooker as full as you can with apple cider without going over the fill line. Cover and set to Low. Cook for 8 to 10 hours.
 
 ** Falafel
-CLOSED: [2020-05-30 Sat]
 :PROPERTIES:
+:export_date: [2020-05-30 Sat]
 :export_file_name: falafel
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 15
@@ -435,8 +435,8 @@ CLOSED: [2020-05-30 Sat]
 13. Here are some less traditional add-ons that are also tasty: sprouts, cucumber slices, roasted peppers, roasted eggplant slices, sunflower seeds, feta cheese, yogurt, tzatziki.
 
 ** Stuffed Bell Peppers
-CLOSED: [2023-05-24 Wed]
 :PROPERTIES:
+:export_date: [2023-05-24 Wed]
 :export_author: Sage
 :export_file_name: stuffed-bell-peppers
 :export_hugo_custom_front_matter: :servings 6
@@ -488,8 +488,8 @@ CLOSED: [2023-05-24 Wed]
 22. Just prior to serving top with parsley
 
 ** Ultra Juicy Grilled BBQ Pork Chops
-CLOSED: [2022-03-02 Wed]
 :PROPERTIES:
+:export_date: [2022-03-02 Wed]
 :export_file_name: ultra-juicy-grilled-bbq-pork-chops
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 10
@@ -523,8 +523,8 @@ CLOSED: [2022-03-02 Wed]
 6. Serve with remaining bbq sauce. Enjoy!
 
 ** Roasted Spachcock Chicken                                      :easy:fav:
-CLOSED: [2021-05-30 Sun]
 :PROPERTIES:
+:export_date: [2021-05-30 Sun]
 :export_file_name: roasted-spachcock-chicken
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 5
@@ -553,8 +553,8 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 
 * Sides                                                               :@side:
 ** Corn Bread                                                      :@baking:
-CLOSED: [2022-05-08 Sun]
 :PROPERTIES:
+:export_date: [2022-05-08 Sun]
 :export_file_name: corn-bread
 :export_hugo_custom_front_matter: :servings 8
 :export_hugo_custom_front_matter+: :prep-time 5
@@ -586,8 +586,8 @@ CLOSED: [2022-05-08 Sun]
 3. Cook turn over the cornbread until it is nice and crispy.
 
 ** Guacamole
-CLOSED: [2022-04-28 Thu]
 :PROPERTIES:
+:export_date: [2022-04-28 Thu]
 :export_file_name: guacamole
 :export_hugo_custom_front_matter: :servings 4
 :export_hugo_custom_front_matter+: :prep-time 10
@@ -611,8 +611,8 @@ CLOSED: [2022-04-28 Thu]
 1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
 ** Dill Pickles
-CLOSED: [2022-06-01 Wed]
 :PROPERTIES:
+:export_date: [2022-06-01 Wed]
 :export_file_name: dill-pickles
 :export_author: Scavello
 :export_hugo_custom_front_matter: :servings 12
@@ -654,8 +654,8 @@ CLOSED: [2022-06-01 Wed]
 
 * Soups & Stews
 ** Butternut Squash Soup                                             :@soup:
-CLOSED: [2019-12-30 Mon]
 :PROPERTIES:
+:export_date: [2019-12-30 Mon]
 :export_file_name: butternut-squash-soup
 :export_hugo_custom_front_matter: :servings 4
 :export_hugo_custom_front_matter+: :prep-time 20
@@ -681,8 +681,8 @@ CLOSED: [2019-12-30 Mon]
 3. Transfer the soup to a blender, and blend until smooth. Return to the pot, and mix in any remaining stock to reach desired consistency. Season with salt and pepper.
 
 ** Lentil Stew                                                       :@stew:
-CLOSED: [2016-05-30 Mon]
 :PROPERTIES:
+:export_date: [2016-05-30 Mon]
 :export_file_name: lentil-stew
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 15
@@ -713,8 +713,8 @@ CLOSED: [2016-05-30 Mon]
 5. Add tomatoes, celery & chickpeas. Cook for an additional 15 minutes.
 
 ** Quick and Easy Chicken Noodle Soup                                :@soup:
-CLOSED: [2022-01-30 Sun]
 :PROPERTIES:
+:export_date: [2022-01-30 Sun]
 :export_file_name: quick-and-easy-chicken-noodle-soup
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 10
@@ -744,8 +744,8 @@ CLOSED: [2022-01-30 Sun]
 3. Reduce heat and simmer for 20 minutes.
 
 ** Slow Cooker Beef Stew                                             :@stew:
-CLOSED: [2022-05-28 Sat]
 :PROPERTIES:
+:export_date: [2022-05-28 Sat]
 :export_file_name: slow-cooker-beef-stew
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 20
@@ -778,8 +778,8 @@ CLOSED: [2022-05-28 Sat]
 
 * Sauces                                                             :@sauce:
 ** Easy Pizza Sauce I
-CLOSED: [2022-03-02 Wed]
 :PROPERTIES:
+:export_date: [2022-03-02 Wed]
 :export_file_name: easy-pizza-sauce-i
 :export_hugo_custom_front_matter: :servings 8
 :export_hugo_custom_front_matter+: :prep-time 10
@@ -804,8 +804,8 @@ CLOSED: [2022-03-02 Wed]
 1. Mix together the tomato paste, water, and olive oil. Mix well. Add garlic, salt and pepper to taste, oregano, basil, and rosemary. Mix well and let stand several hours to let flavors blend. No cooking necessary, just spread on dough.
 
 ** Homemade Hoisin Sauce
-CLOSED: [2022-03-02 Wed]
 :PROPERTIES:
+:export_date: [2022-03-02 Wed]
 :export_file_name: homemade-hoisin-sauce
 :export_hugo_custom_front_matter: :servings 1 1/2 cup
 :export_hugo_custom_front_matter+: :prep-time 10
@@ -829,8 +829,8 @@ CLOSED: [2022-03-02 Wed]
 1. Whisk soy sauce, peanut butter, brown sugar, rice wine vinegar, sesame oil, hot sauce, garlic, and black pepper together in a large bowl.
 
 ** Peanut Dipping Sauce                                                :fav:
-CLOSED: [2021-05-30 Sun]
 :PROPERTIES:
+:export_date: [2021-05-30 Sun]
 :export_file_name: peanut-dipping-sauce
 :export_hugo_custom_front_matter: :servings 5
 :export_hugo_custom_front_matter+: :prep-time 5
@@ -857,8 +857,8 @@ My family goes nuts for this peanut sauce. Pun intended. It is probably the stro
 3. If you're serving the sauce as a party dip, transfer it to a serving bowl and sprinkle with chopped peanuts and red pepper flakes for some visual interest!
 
 ** Steak Sauce
-CLOSED: [2022-03-22 Tue]
 :PROPERTIES:
+:export_date: [2022-03-22 Tue]
 :export_file_name: steak-sauce
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 5
@@ -881,8 +881,8 @@ CLOSED: [2022-03-22 Tue]
 1. In a medium bowl, mix together the ketchup, mustard, Worcestershire sauce, vinegar, hot pepper sauce, salt and pepper. Transfer to a jar and refrigerate until needed.
 
 ** Worchestershire Sauce                                            :GF:fav:
-CLOSED: [2020-01-30 Thu]
 :PROPERTIES:
+:export_date: [2020-01-30 Thu]
 :export_file_name: worchestershire-sauce
 :export_hugo_custom_front_matter: :servings 5
 :export_hugo_custom_front_matter+: :prep-time 0
