@@ -718,10 +718,11 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 2. Bring to a boil over medium-high heat. Reduce heat to low, cover pot, and simmer until all vegetables are tender, about 40 minutes.
 3. Transfer the soup to a blender, and blend until smooth. Return to the pot, and mix in any remaining stock to reach desired consistency. Season with salt and pepper.
 
-** Lentil Stew                                                       :@stew:
+** Lentil Stew                                               :@stew:GF:easy:
 :PROPERTIES:
 :export_date: [2016-05-30 Mon]
 :export_file_name: lentil-stew
+:export_hugo_lastmod: [2022-06-20 Mon]
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 15
 :export_hugo_custom_front_matter+: :cook-time 45
@@ -731,14 +732,14 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 
 - 1 cup of lentils
 - 3 cups of water
-- 369 g, Tomato, Medium Whole (2-3/5" Dia), Raw
 - 2 stalks, Celery
 - 1 cup, pieces or slices, Mushrooms - Raw
 - 1 teaspoon, Genetic Table Salt
 - 1 sprinkle, Black Pepper, Ground
 - 1 tbsp, Sirracha
 - 1 cup 123 g, Chickpea Canned
-- 3 potato, Medium Russet Potato
+- 3 tomatoes, chopped
+- 1 potato, Medium Russet Potato
 - 1.50 cup, chopped, Carrots - Raw
 - 2 tbsp vegetable oil
 
