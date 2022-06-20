@@ -17,7 +17,7 @@ source-url: "https://www.allrecipes.com/recipe/86516/steak-sauce/"
 -   Try with Tamarind
 -   1  1/4 cups ketchup
 -   2 tablespoons prepared yellow mustard
--   3 tablespoons [Worcestershire sauce]({{< relref "worchestershire-sauce" >}})
+-   3 tablespoons [worcestershire sauce]({{< relref "worchestershire-sauce" >}})
 -   1  1/2 tablespoons apple cider vinegar
 -   4 drops hot pepper sauce (e.g. Tabasco)
 -   1/2 teaspoon salt

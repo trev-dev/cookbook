@@ -2,7 +2,6 @@
 title: "Guacamole"
 author: ["Trev"]
 date: 2022-04-28T00:00:00-07:00
-tags: ["GF"]
 categories: ["side"]
 draft: false
 servings: 4

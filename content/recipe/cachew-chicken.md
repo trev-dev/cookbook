@@ -2,7 +2,6 @@
 title: "Cachew Chicken"
 author: ["Trev"]
 date: 2022-06-05T00:00:00-07:00
-tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 3

@@ -11,7 +11,7 @@
 #+AUTHOR: "Trev"
 * Baking                                                            :@baking:
 * Breakfasts                                                     :@breakfast:
-** Banana Pancakes                                             :GF:easy:fav:
+** Banana Pancakes                                                :easy:fav:
 :PROPERTIES:
 :export_date: [2022-02-02 Wed]
 :export_file_name: banana-pancakes
@@ -24,8 +24,6 @@
 One of my absolute favorite recipes. It was discovered, and altered by
 my wife. I enjoy them most with peanut butter and warm berries that were
 heated from frozen. Try them with any toppings you'd like.
-
-Use 1-1 gluten free baking flour to make it GF.
 
 *** Ingredients
 
@@ -90,7 +88,7 @@ Use 1-1 gluten free baking flour to make it GF.
 3. Gently spoon into an ungreased 10-in. tube pan. Cut through the batter with a knife to remove air pockets. Bake on the lowest oven rack at 350&deg; for 45-50 minutes or until lightly browned and entire top appears dry. Immediately invert pan; cool completely, about 1 hour.
 4. Run a knife around side and center tube of pan. Remove cake to a serving plate. Top with fresh fruit if desired.
 
-* Dressings                                                    :@dressing:GF:
+* Dressings                                                       :@dressing:
 ** Easy Coleslaw Dressing
 :PROPERTIES:
 :export_date: [2022-05-30 Mon]
@@ -182,7 +180,6 @@ Use 1-1 gluten free baking flour to make it GF.
 ** BBQ Teriyaki Pork Kabobs                                             :GF:
 :PROPERTIES:
 :export_date: [2022-03-22 Tue]
-:export_hugo_lastmod: [2022-06-20 Mon]
 :export_file_name: bbq-teriyaki-pork-kabobs
 :export_hugo_custom_front_matter: :servings 6
 :export_hugo_custom_front_matter+: :prep-time 30
@@ -191,7 +188,7 @@ Use 1-1 gluten free baking flour to make it GF.
 :END:
 *** Ingredients
 
-- 3 tablespoons soy sauce
+- 3 tablespoons wheat-free tamari
 - 3 tablespoons olive oil
 - 1 clove garlic, minced
 - 1/2 teaspoon crushed red pepper flakes
@@ -210,12 +207,12 @@ Use 1-1 gluten free baking flour to make it GF.
 
 *** Directions
 
-1. In a shallow dish, mix together 3 tablespoons soy sauce, olive oil, 1 clove minced garlic, red pepper flakes, salt, and pepper. Add pork cubes, and turn to coat evenly with marinade. Cover, and refrigerate for 3 hours.
-2. In a saucepan, combine beef broth, cornstarch, 2 tablespoons soy sauce, brown sugar, 2 cloves minced garlic, and ginger. Bring to a boil, stirring constantly. Reduce heat, and simmer 5 minutes.
+1. In a shallow dish, mix together 3 tablespoons tamari, olive oil, 1 clove minced garlic, red pepper flakes, salt, and pepper. Add pork cubes, and turn to coat evenly with marinade. Cover, and refrigerate for 3 hours.
+2. In a saucepan, combine beef broth, cornstarch, 2 tablespoons tamari, brown sugar, 2 cloves minced garlic, and ginger. Bring to a boil, stirring constantly. Reduce heat, and simmer 5 minutes.
 3. Preheat an outdoor grill for high heat and lightly oil grate. Thread pork cubes onto skewers, alternating with mushrooms, onion, tomatoes, and pineapple chunks.
 4. Cook on grill for 15 minutes, or until meat is cooked through. Turn skewers, and baste often with sauce during cooking.
 
-** Beef Shish Kebabs for Freezer Cooking                                :GF:
+** Beef Shish Kebabs for Freezer Cooking
 :PROPERTIES:
 :export_date: [2022-03-22 Tue]
 :export_file_name: beef-shish-kebabs-for-freezer-cooking
@@ -236,7 +233,7 @@ Use 1-1 gluten free baking flour to make it GF.
 - 2 tablespoons [[* Steak Sauce][steak sauce]]
 - 2 tablespoons white sugar
 - 2 tablespoons apple cider vinegar
-- 2 tablespoons [[* Worchestershire Sauce][Worcestershire sauce]]
+- 2 tablespoons [[* Worchestershire Sauce][worcestershire sauce]]
 - ¼ cup water
 - 1 ½ pounds beef sirloin, cut into 1 inch cubes
 - 12 bamboo skewers
@@ -248,7 +245,7 @@ Use 1-1 gluten free baking flour to make it GF.
 3. Preheat an outdoor grill for medium heat, and lightly oil the grate. Make the skewers by alternating beef, vegetables, and pineapple on the skewers. Discard any remaining marinade.
 4. Cook the skewers on the preheated grill, turning occasionally until cooked to your desired degree of doneness, about 10 minutes total for medium-rare.
 
-** Beef Stroganoff III                                                  :GF:
+** Beef Stroganoff III
 :PROPERTIES:
 :export_date: [2022-04-22 Fri]
 :export_file_name: beef-stroganoff-iii
@@ -265,7 +262,7 @@ Use 1-1 gluten free baking flour to make it GF.
 - 1/2 teaspoon ground black pepper
 - 4 ounces butter
 - 4 green onions, sliced (white parts only)
-- 4 tablespoons all-purpose 1-1 gluten free flour
+- 4 tablespoons all-purpose flour
 - 1 (10.5 ounce - 300ml) can condensed beef broth
 - 1 teaspoon prepared mustard
 - 1 (6 ounce) can sliced mushrooms, drained
@@ -292,7 +289,7 @@ Use 1-1 gluten free baking flour to make it GF.
 :export_hugo_custom_front_matter+: :cook-time 25
 :export_hugo_custom_front_matter+: :ready-in 35
 :END:
-*** Ingredients                                                        :GF:
+*** Ingredients
 Some basmati or white along with the stuff required to make the Marinade and Curry.
 
 **** Marinade
@@ -300,7 +297,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 - 1/2 cup plain yoghurt, full fat
 - 1 tbsp lemon juice
 - 1 tsp tumeric powder
-- 2 tsp garam masala
+- 2 tsp garam masala (Note 1)
 - 1/2 tsp chilli powder or cayenne pepper powder (Note 2)
 - 1 tsp ground cumin
 - 1 tbsp ginger, freshly grated
@@ -324,7 +321,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 5. Sauce: Add the tomato passata, cream, sugar and salt. Also add any remaining marinade left in the bowl. Turn down to low and simmer for 20 minutes. Do a taste test to see if it needs more salt.
 6. Garnish with coriander/cilantro leaves if using. Serve with white/basmati rice.
 
-** Cachew Chicken                                                       :GF:
+** Cachew Chicken
 :PROPERTIES:
 :export_date: [2022-06-05 Sun]
 :export_file_name: cachew-chicken
@@ -362,7 +359,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 6. Add liquid aminos, rice wine vinegar, and cashews. Cook on high and allow the liquid to reduce down until it is a sticky consistency,  There should not be excess liquid in the pan upon completing cooking.
 7. Serve in a bowl, top with sesame seeds and drizzle with sesame oil. Enjoy!
 
-** Crustless Mushroom Spinach Pie                                       :GF:
+** Crustless Mushroom Spinach Pie
 :PROPERTIES:
 :export_date: [2018-03-02 Fri]
 :export_file_name: crustless-mushroom-spinach-pie
@@ -403,7 +400,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 12. Turn oven off and allow to sit in oven for 10 minutes.
 13. Stand 10 more minutes before slicing.
 
-** Easy Slow Cooker Ham                                                 :GF:
+** Easy Slow Cooker Ham
 :PROPERTIES:
 :export_date: [2022-01-30 Sun]
 :export_file_name: easy-slow-cooker-ham
@@ -432,7 +429,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 1. Press whole cloves into the ham so they are evenly distributed. You may score the ham for easier insertion if you wish. Place the ham in a slow cooker. Pour in apple cider until only about 2 inches of ham is above the surface. Pack the brown sugar on top of the ham, pressing into the cloves. This will get washed away in the next step but any that stays on is a bonus.
 2. Pour the maple syrup over the ham. Season the apple cider with cinnamon, nutmeg, ginger, ground cloves and vanilla. Add the orange peel to the pot. Fill the slow cooker as full as you can with apple cider without going over the fill line. Cover and set to Low. Cook for 8 to 10 hours.
 
-** Falafel                                                              :GF:
+** Falafel
 :PROPERTIES:
 :export_date: [2020-05-30 Sat]
 :export_file_name: falafel
@@ -475,7 +472,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 12. HOW TO MAKE A FALAFEL PITA : Making a falafel pita is actually really simple. The two main ingredients are pita bread and falafel.   Cut the pita bread in half to form two “pockets.” Each pocket is a serving size. Stuff the pocket with falafel, as well as any add-ons you fancy.  Here are some traditional add-ons that can be added to your pita: tahini sauce, shredded lettuce, diced or sliced tomatoes, Israeli salad, onions, dill pickles, hummus, tabouli, french fries
 13. Here are some less traditional add-ons that are also tasty: sprouts, cucumber slices, roasted peppers, roasted eggplant slices, sunflower seeds, feta cheese, yogurt, tzatziki.
 
-** Stuffed Bell Peppers                                                 :GF:
+** Stuffed Bell Peppers
 :PROPERTIES:
 :export_date: [2023-05-24 Wed]
 :export_author: Sage
@@ -494,7 +491,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 - 1 Jar Classico four cheeses
 - Grated Mozzarella cheese - some in mix, some on peppers to melt in oven
 - Olive oil
-- 1-1 Gluten Free flour to thicken
+- Flour to thicken
 - 1 stalk Celery, chopped fine
 - 6 Mushrooms, chopped fine
 - 1/2 cup Additional peppers, chopped fine
@@ -593,7 +590,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 8. Serve with any sides you like. I enjoy rice and roasted vegetables.
 
 * Sides                                                               :@side:
-** Corn Bread                                                   :@baking:GF:
+** Corn Bread                                                      :@baking:
 :PROPERTIES:
 :export_date: [2022-05-08 Sun]
 :export_file_name: corn-bread
@@ -606,7 +603,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 *** Ingredients
 
 - 1 cup of cornmeal
-- 3/4 cup of 1-1 gluten free all-purpose flour
+- 3/4 cup of all-purpose flour
 - 2-4 tablespoons of sugar
 - 2 1/2 teaspoons of baking powder
 - 1/2 teaspoon of salt
@@ -626,7 +623,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 2. Heat a 1/2 inch of some vegetable oil in a cast iron skillet. Once hot, glob the batter into the skillet.
 3. Cook turn over the cornbread until it is nice and crispy.
 
-** Guacamole                                                            :GF:
+** Guacamole
 :PROPERTIES:
 :export_date: [2022-04-28 Thu]
 :export_file_name: guacamole
@@ -651,7 +648,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 
 1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
-** Dill Pickles                                                         :GF:
+** Dill Pickles
 :PROPERTIES:
 :export_date: [2022-06-01 Wed]
 :export_file_name: dill-pickles
@@ -694,7 +691,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 10. Storing pickles. Canned pickles will keep for at least a year on the shelf and for several weeks in the refrigerator once opened; refrigerator pickles will keep for several weeks.
 
 * Soups & Stews
-** Butternut Squash Soup                                          :@soup:GF:
+** Butternut Squash Soup                                             :@soup:
 :PROPERTIES:
 :export_date: [2019-12-30 Mon]
 :export_file_name: butternut-squash-soup
@@ -754,7 +751,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 4. Bring pot to boil then cook on medium for 30 minutes.
 5. Add tomatoes, celery & chickpeas. Cook for an additional 15 minutes.
 
-** Quick and Easy Chicken Noodle Soup                             :@soup:GF:
+** Quick and Easy Chicken Noodle Soup                                :@soup:
 :PROPERTIES:
 :export_date: [2022-01-30 Sun]
 :export_file_name: quick-and-easy-chicken-noodle-soup
@@ -773,7 +770,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 - 4 (14.5 ounce) cans chicken broth
 - 1 (14.5 ounce) can vegetable broth
 - 1/2 pound chopped cooked chicken breast
-- 1 1/2 cups GF pasta
+- 1  1/2 cups egg noodles
 - 1 cup sliced carrots
 - 1/2 teaspoon dried basil
 - 1/2 teaspoon dried oregano
@@ -785,7 +782,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 2. Add chicken broth, vegetable broth, chicken, egg noodles, carrots, basil, oregano, salt, and pepper. Stir to combine and bring to a boil.
 3. Reduce heat and simmer for 20 minutes.
 
-** Slow Cooker Beef Stew                                          :@stew:GF:
+** Slow Cooker Beef Stew                                             :@stew:
 :PROPERTIES:
 :export_date: [2022-05-28 Sat]
 :export_file_name: slow-cooker-beef-stew
@@ -806,7 +803,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 - 3 medium potatoes, diced
 - 1 medium onion, chopped
 - 1 stalk celery, chopped
-- 1 teaspoon [[* Worchestershire Sauce][worcestershire sauce]]
+- 1 teaspoon Worcestershire sauce
 - 1 teaspoon ground paprika
 - 1 clove garlic, minced
 - 1 large bay leaf
@@ -819,7 +816,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 4. Cover, and cook until beef is tender enough to cut with a spoon, on Low for 8 to 12 hours, or on High for 4 to 6 hours.
 
 * Sauces                                                             :@sauce:
-** Easy Pizza Sauce I                                                   :GF:
+** Easy Pizza Sauce I
 :PROPERTIES:
 :export_date: [2022-03-02 Wed]
 :export_file_name: easy-pizza-sauce-i
@@ -857,7 +854,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 :END:
 *** Ingredients
 
-- 1/4 cup soy sauce
+- 1/4 cup wheat free tamari
 - 2 tablespoons smooth peanut butter
 - 1 tablespoon dark brown sugar
 - 2 teaspoons rice wine vinegar
@@ -868,7 +865,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 
 *** Directions
 
-1. Whisk soy sauce, peanut butter, brown sugar, rice wine vinegar, sesame oil, hot sauce, garlic, and black pepper together in a large bowl.
+1. Whisk tamari, peanut butter, brown sugar, rice wine vinegar, sesame oil, hot sauce, garlic, and black pepper together in a large bowl.
 
 ** Peanut Dipping Sauce                                             :GF:fav:
 :PROPERTIES:
@@ -885,7 +882,7 @@ My family goes nuts for this peanut sauce. Pun intended. It is probably the stro
 *** Ingredients
 - 3/4 cup creamy peanut butter
 - 1/4 cup rice vinegar
-- 1/3 cup reduced sodium tamari or reduced-sodium soy sauce
+- 1/3 cup wheat-free tamari
 - 3 tablespoons honey
 - 1 1/2 teaspoons grated fresh ginger or 1/2 teaspoon ground ginger
 - 1 to 2 medium cloves garlic, pressed or minced, to taste
@@ -913,7 +910,7 @@ My family goes nuts for this peanut sauce. Pun intended. It is probably the stro
 - Try with Tamarind
 - 1  1/4 cups ketchup
 - 2 tablespoons prepared yellow mustard
-- 3 tablespoons [[Worchestershire Sauce][Worcestershire sauce]]
+- 3 tablespoons [[* Worchestershire Sauce][worcestershire sauce]]
 - 1  1/2 tablespoons apple cider vinegar
 - 4 drops hot pepper sauce (e.g. Tabasco)
 - 1/2 teaspoon salt
@@ -937,7 +934,7 @@ Need a solution for seasoning red meat that won't hurt a celiac person? Look no 
 *** Ingredients
 
 - 1/2 cup apple cider vinegar
-- 2 Tbsp GF soy sauce
+- 2 Tbsp wheat-free tamari
 - 2 Tbsp water
 - 1 Tbsp brown sugar
 - 1/4 tsp ground ginger

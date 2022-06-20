@@ -14,7 +14,7 @@ source-url: "https://www.allrecipes.com/recipe/256166/homemade-hoisin-sauce/"
 
 ## Ingredients {#ingredients}
 
--   1/4 cup soy sauce
+-   1/4 cup wheat free tamari
 -   2 tablespoons smooth peanut butter
 -   1 tablespoon dark brown sugar
 -   2 teaspoons rice wine vinegar
@@ -26,4 +26,4 @@ source-url: "https://www.allrecipes.com/recipe/256166/homemade-hoisin-sauce/"
 
 ## Directions {#directions}
 
-1.  Whisk soy sauce, peanut butter, brown sugar, rice wine vinegar, sesame oil, hot sauce, garlic, and black pepper together in a large bowl.
+1.  Whisk tamari, peanut butter, brown sugar, rice wine vinegar, sesame oil, hot sauce, garlic, and black pepper together in a large bowl.

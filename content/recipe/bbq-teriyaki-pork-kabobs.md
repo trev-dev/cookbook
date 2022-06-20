@@ -2,7 +2,6 @@
 title: "BBQ Teriyaki Pork Kabobs"
 author: ["Trev"]
 date: 2022-03-22T00:00:00-07:00
-lastmod: 2022-06-20T00:00:00-07:00
 tags: ["GF"]
 categories: ["entree"]
 draft: false
@@ -14,7 +13,7 @@ ready-in: 230
 
 ## Ingredients {#ingredients}
 
--   3 tablespoons soy sauce
+-   3 tablespoons wheat-free tamari
 -   3 tablespoons olive oil
 -   1 clove garlic, minced
 -   1/2 teaspoon crushed red pepper flakes
@@ -34,7 +33,7 @@ ready-in: 230
 
 ## Directions {#directions}
 
-1.  In a shallow dish, mix together 3 tablespoons soy sauce, olive oil, 1 clove minced garlic, red pepper flakes, salt, and pepper. Add pork cubes, and turn to coat evenly with marinade. Cover, and refrigerate for 3 hours.
-2.  In a saucepan, combine beef broth, cornstarch, 2 tablespoons soy sauce, brown sugar, 2 cloves minced garlic, and ginger. Bring to a boil, stirring constantly. Reduce heat, and simmer 5 minutes.
+1.  In a shallow dish, mix together 3 tablespoons tamari, olive oil, 1 clove minced garlic, red pepper flakes, salt, and pepper. Add pork cubes, and turn to coat evenly with marinade. Cover, and refrigerate for 3 hours.
+2.  In a saucepan, combine beef broth, cornstarch, 2 tablespoons tamari, brown sugar, 2 cloves minced garlic, and ginger. Bring to a boil, stirring constantly. Reduce heat, and simmer 5 minutes.
 3.  Preheat an outdoor grill for high heat and lightly oil grate. Thread pork cubes onto skewers, alternating with mushrooms, onion, tomatoes, and pineapple chunks.
 4.  Cook on grill for 15 minutes, or until meat is cooked through. Turn skewers, and baste often with sauce during cooking.

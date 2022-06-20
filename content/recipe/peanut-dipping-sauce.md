@@ -19,7 +19,7 @@ My family goes nuts for this peanut sauce. Pun intended. It is probably the stro
 
 -   3/4 cup creamy peanut butter
 -   1/4 cup rice vinegar
--   1/3 cup reduced sodium tamari or reduced-sodium soy sauce
+-   1/3 cup wheat-free tamari
 -   3 tablespoons honey
 -   1 1/2 teaspoons grated fresh ginger or 1/2 teaspoon ground ginger
 -   1 to 2 medium cloves garlic, pressed or minced, to taste

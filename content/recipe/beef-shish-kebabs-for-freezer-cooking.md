@@ -2,7 +2,6 @@
 title: "Beef Shish Kebabs for Freezer Cooking"
 author: ["Trev"]
 date: 2022-03-22T00:00:00-07:00
-tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 12
@@ -23,7 +22,7 @@ source-url: "https://www.allrecipes.com/recipe/218480/beef-shish-kebabs-for-free
 -   2 tablespoons [steak sauce]({{< relref "steak-sauce" >}})
 -   2 tablespoons white sugar
 -   2 tablespoons apple cider vinegar
--   2 tablespoons [Worcestershire sauce]({{< relref "worchestershire-sauce" >}})
+-   2 tablespoons [worcestershire sauce]({{< relref "worchestershire-sauce" >}})
 -   ¼ cup water
 -   1 ½ pounds beef sirloin, cut into 1 inch cubes
 -   12 bamboo skewers

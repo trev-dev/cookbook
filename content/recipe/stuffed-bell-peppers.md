@@ -2,7 +2,6 @@
 title: "Stuffed Bell Peppers"
 author: ["Sage"]
 date: 2023-05-24T00:00:00-07:00
-tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 6
@@ -19,7 +18,7 @@ ready-in: 55
 -   1 Jar Classico four cheeses
 -   Grated Mozzarella cheese - some in mix, some on peppers to melt in oven
 -   Olive oil
--   1-1 Gluten Free flour to thicken
+-   Flour to thicken
 -   1 stalk Celery, chopped fine
 -   6 Mushrooms, chopped fine
 -   1/2 cup Additional peppers, chopped fine

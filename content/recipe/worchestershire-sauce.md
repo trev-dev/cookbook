@@ -18,7 +18,7 @@ Need a solution for seasoning red meat that won't hurt a celiac person? Look no 
 ## Ingredients {#ingredients}
 
 -   1/2 cup apple cider vinegar
--   2 Tbsp GF soy sauce
+-   2 Tbsp wheat-free tamari
 -   2 Tbsp water
 -   1 Tbsp brown sugar
 -   1/4 tsp ground ginger

@@ -11,7 +11,7 @@ cook-time: 25
 ready-in: 35
 ---
 
-## Ingredients <span class="tag"><span class="GF">GF</span></span> {#ingredients}
+## Ingredients {#ingredients}
 
 Some basmati or white along with the stuff required to make the Marinade and Curry.
 
@@ -21,7 +21,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 -   1/2 cup plain yoghurt, full fat
 -   1 tbsp lemon juice
 -   1 tsp tumeric powder
--   2 tsp garam masala
+-   2 tsp garam masala (Note 1)
 -   1/2 tsp chilli powder or cayenne pepper powder (Note 2)
 -   1 tsp ground cumin
 -   1 tbsp ginger, freshly grated

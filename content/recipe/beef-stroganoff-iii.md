@@ -2,7 +2,6 @@
 title: "Beef Stroganoff III"
 author: ["Trev"]
 date: 2022-04-22T00:00:00-07:00
-tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: "6 to 8 servings"
@@ -19,7 +18,7 @@ source-url: "https://www.allrecipes.com/recipe/25202/beef-stroganoff-iii/"
 -   1/2 teaspoon ground black pepper
 -   4 ounces butter
 -   4 green onions, sliced (white parts only)
--   4 tablespoons all-purpose 1-1 gluten free flour
+-   4 tablespoons all-purpose flour
 -   1 (10.5 ounce - 300ml) can condensed beef broth
 -   1 teaspoon prepared mustard
 -   1 (6 ounce) can sliced mushrooms, drained
