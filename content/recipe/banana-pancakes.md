@@ -2,7 +2,7 @@
 title: "Banana Pancakes"
 author: ["Roonie"]
 date: 2022-02-02T00:00:00-08:00
-tags: ["easy", "fav"]
+tags: ["GF", "easy", "fav"]
 categories: ["breakfast"]
 draft: false
 servings: 6
@@ -14,6 +14,8 @@ ready-in: 25
 One of my absolute favorite recipes. It was discovered, and altered by
 my wife. I enjoy them most with peanut butter and warm berries that were
 heated from frozen. Try them with any toppings you'd like.
+
+Use 1-1 gluten free baking flour to make it GF.
 
 
 ## Ingredients {#ingredients}

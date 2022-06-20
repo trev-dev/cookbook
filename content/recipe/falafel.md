@@ -2,6 +2,7 @@
 title: "Falafel"
 author: ["Trev"]
 date: 2020-05-30T00:00:00-07:00
+tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 6

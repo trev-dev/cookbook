@@ -2,8 +2,7 @@
 title: "Roasted Spachcock Chicken"
 author: ["Trev"]
 date: 2021-05-30T00:00:00-07:00
-lastmod: 2022-06-01T20:05:11-07:00
-tags: ["easy", "fav"]
+tags: ["GF", "easy", "fav"]
 categories: ["entree"]
 draft: false
 servings: 6

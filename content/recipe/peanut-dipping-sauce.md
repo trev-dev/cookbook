@@ -2,7 +2,7 @@
 title: "Peanut Dipping Sauce"
 author: ["Trev"]
 date: 2021-05-30T00:00:00-07:00
-tags: ["fav"]
+tags: ["GF", "fav"]
 categories: ["sauce"]
 draft: false
 servings: 5

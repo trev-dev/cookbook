@@ -2,6 +2,7 @@
 title: "Butternut Squash Soup"
 author: ["Trev"]
 date: 2019-12-30T00:00:00-08:00
+tags: ["GF"]
 categories: ["soup"]
 draft: false
 servings: 4

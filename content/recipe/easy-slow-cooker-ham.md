@@ -2,6 +2,7 @@
 title: "Easy Slow Cooker Ham"
 author: ["Trev"]
 date: 2022-01-30T00:00:00-08:00
+tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 12

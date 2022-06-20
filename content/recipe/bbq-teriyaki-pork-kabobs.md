@@ -2,6 +2,8 @@
 title: "BBQ Teriyaki Pork Kabobs"
 author: ["Trev"]
 date: 2022-03-22T00:00:00-07:00
+lastmod: 2022-06-20T00:00:00-07:00
+tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 6
@@ -20,7 +22,7 @@ ready-in: 230
 -   1 pound boneless pork loin, cut into 1 inch cubes
 -   1 (14.5 ounce) can low-sodium beef broth
 -   2 tablespoons cornstarch
--   2 tablespoons soy sauce
+-   2 tablespoons wheat free tamari
 -   1 tablespoon brown sugar
 -   2 cloves garlic, minced
 -   1/4 teaspoon ground ginger

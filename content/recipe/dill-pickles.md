@@ -2,6 +2,7 @@
 title: "Dill Pickles"
 author: ["Scavello"]
 date: 2022-06-01T00:00:00-07:00
+tags: ["GF"]
 categories: ["side"]
 draft: false
 servings: 12

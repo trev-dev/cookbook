@@ -2,6 +2,7 @@
 title: "Slow Cooker Beef Stew"
 author: ["Trev"]
 date: 2022-05-28T00:00:00-07:00
+tags: ["GF"]
 categories: ["stew"]
 draft: false
 servings: 6
@@ -22,7 +23,7 @@ source-url: "https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/"
 -   3 medium potatoes, diced
 -   1 medium onion, chopped
 -   1 stalk celery, chopped
--   1 teaspoon Worcestershire sauce
+-   1 teaspoon [worcestershire sauce]({{< relref "worchestershire-sauce" >}})
 -   1 teaspoon ground paprika
 -   1 clove garlic, minced
 -   1 large bay leaf

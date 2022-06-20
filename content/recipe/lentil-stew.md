@@ -2,6 +2,8 @@
 title: "Lentil Stew"
 author: ["Trev"]
 date: 2016-05-30T00:00:00-07:00
+lastmod: 2022-06-20T00:00:00-07:00
+tags: ["GF", "easy"]
 categories: ["stew"]
 draft: false
 servings: 12
@@ -14,14 +16,14 @@ ready-in: 60
 
 -   1 cup of lentils
 -   3 cups of water
--   369 g, Tomato, Medium Whole (2-3/5" Dia), Raw
 -   2 stalks, Celery
 -   1 cup, pieces or slices, Mushrooms - Raw
 -   1 teaspoon, Genetic Table Salt
 -   1 sprinkle, Black Pepper, Ground
 -   1 tbsp, Sirracha
 -   1 cup 123 g, Chickpea Canned
--   3 potato, Medium Russet Potato
+-   3 tomatoes, chopped
+-   1 potato, Medium Russet Potato
 -   1.50 cup, chopped, Carrots - Raw
 -   2 tbsp vegetable oil
 

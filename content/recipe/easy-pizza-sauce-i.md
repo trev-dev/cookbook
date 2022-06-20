@@ -2,6 +2,7 @@
 title: "Easy Pizza Sauce I"
 author: ["Trev"]
 date: 2022-03-02T00:00:00-08:00
+tags: ["GF"]
 categories: ["sauce"]
 draft: false
 servings: 8

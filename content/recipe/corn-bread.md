@@ -2,6 +2,7 @@
 title: "Corn Bread"
 author: ["Linden"]
 date: 2022-05-08T00:00:00-07:00
+tags: ["GF"]
 categories: ["side", "baking"]
 draft: false
 servings: 8
@@ -13,7 +14,7 @@ ready-in: 25
 ## Ingredients {#ingredients}
 
 -   1 cup of cornmeal
--   3/4 cup of all-purpose flour
+-   3/4 cup of 1-1 gluten free all-purpose flour
 -   2-4 tablespoons of sugar
 -   2 1/2 teaspoons of baking powder
 -   1/2 teaspoon of salt

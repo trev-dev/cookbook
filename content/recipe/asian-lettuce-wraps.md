@@ -2,6 +2,7 @@
 title: "Asian Lettuce Wraps"
 author: ["Trev"]
 date: 2022-03-30T00:00:00-07:00
+tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 4

@@ -2,6 +2,7 @@
 title: "Ultra Juicy Grilled BBQ Pork Chops"
 author: ["Trev"]
 date: 2022-03-02T00:00:00-08:00
+tags: ["GF"]
 categories: ["entree"]
 draft: false
 servings: 6
@@ -17,7 +18,7 @@ ready-in: 30
 -   1 cup ketchup
 -   2/3 cup brown sugar - packed
     -   Try half this amount for a healther sauce. Still delicious
--   3 tablespoons worcestershire sauce
+-   3 tablespoons [worcestershire sauce]({{< relref "worchestershire-sauce" >}})
 -   3 tablespoons apple cider vinegar
 -   2 tablespoons dijon mustard
 -   1 teaspoon mesquite seasoning  -  see note
