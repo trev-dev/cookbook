@@ -647,6 +647,44 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 
 1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
+** Mexican Bean Salad                                                 :easy:
+:PROPERTIES:
+:export_date: [2022-07-11 Mon]
+:export_file_name: mexican-bean-salad
+:export_hugo_custom_front_matter: source-url: https://www.allrecipes.com/recipe/14169/mexican-bean-salad/
+:export_hugo_custom_front_matter+: servings: 8
+:export_hugo_custom_front_matter+: prep-time: 15 min
+:export_hugo_custom_front_matter+: cook-time: 0
+:export_hugo_custom_front_matter+: ready-in: 1 hour, 15 minutes
+:END:
+*** Ingredients
+
+- 1 (15 ounce) can black beans, rinsed and drained
+- 1 (15 ounce) can kidney beans, rinsed and drained
+- 1 (15 ounce) can cannellini beans, rinsed and drained
+- 1 green bell pepper, chopped
+- 1 red bell pepper, chopped
+- 1 (10 ounce) package frozen corn kernels, thawed
+- 1 red onion, diced
+- 1/2 cup olive oil
+- 1/2 cup red wine vinegar
+- 1/4 cup chopped fresh cilantro
+- 2 tablespoons fresh lime juice
+- 1 tablespoon lemon juice
+- 1 clove garlic, crushed
+- 2 tablespoons white sugar
+- 1 tablespoon salt
+- 1 1/2 teaspoons ground cumin
+- 1 1/2 teaspoons ground black pepper
+- 1/2 teaspoon chili powder, or to taste
+- 1 dash hot pepper sauce, or to taste
+
+*** Directions
+
+1. Combine beans, bell peppers, corn, and red onion in a large bowl.
+2. Whisk olive oil, vinegar, cilantro, lime juice, lemon juice, garlic, sugar, salt, cumin, and black pepper together in a small bowl. Season with chili powder and hot sauce.
+3. Pour dressing over bean mixture and toss well. Refrigerate until chilled, about 1 hour. Serve cold.
+
 ** Dill Pickles
 :PROPERTIES:
 :export_date: [2022-06-01 Wed]
@@ -813,7 +851,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 2. Mix flour, salt, and pepper together in a small bowl. Pour over meat, and stir until meat is coated.
 3. Add beef broth, carrots, potatoes, onion, celery, Worcestershire sauce, paprika, garlic, and bay leave; stir to combine.
 4. Cover, and cook until beef is tender enough to cut with a spoon, on Low for 8 to 12 hours, or on High for 4 to 6 hours.
-
+   
 * Sauces                                                             :@sauce:
 ** Easy Pizza Sauce I
 :PROPERTIES:
@@ -950,3 +988,4 @@ Need a solution for seasoning red meat that won't hurt a celiac person? Look no 
 3. Pour into a bottle and store in the refrigerator. Lasts indefinitely.
 4. Makes about 3/4 cup.
 5. Shake well before using.
+
