@@ -2,6 +2,7 @@
 title: "Beef Stroganoff III"
 author: ["Trev"]
 date: 2022-04-22T00:00:00-07:00
+lastmod: 2022-07-12T00:00:00-07:00
 categories: ["entree"]
 draft: false
 servings: "6 to 8 servings"
@@ -24,8 +25,6 @@ source-url: "https://www.allrecipes.com/recipe/25202/beef-stroganoff-iii/"
 -   1 (6 ounce) can sliced mushrooms, drained
 -   1/3 cup sour cream
 -   1/3 cup white wine
--   salt to taste
--   ground black pepper to taste
 
 
 ## Directions {#directions}

@@ -16,7 +16,7 @@ source-url: "https://www.cookingclassy.com/lettuce-wraps/"
 
 -   3 tsp olive oil, divided
 -   1 lb 93% lean ground turkey or chicken
--   4 - 5 Tbsp hoisin sauce to taste
+-   4 - 5 Tbsp [hoisin sauce]({{< relref "homemade-hoisin-sauce" >}}) to taste
 -   1 Tbsp wheat free tamari
 -   2 tsp sriracha (optional)
 -   1 Tbsp rice vinegar
