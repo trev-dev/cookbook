@@ -21,9 +21,7 @@
 :export_hugo_custom_front_matter+: :ready-in 25
 :export_author: Roonie
 :END:
-One of my absolute favorite recipes. It was discovered, and altered by
-my wife. I enjoy them most with peanut butter and warm berries that were
-heated from frozen. Try them with any toppings you'd like.
+One of my absolute favorite recipes. It was discovered, and altered by my wife. I enjoy them most with peanut butter and warm berries that were heated from frozen. Try them with any toppings you'd like.
 
 *** Ingredients
 
@@ -551,6 +549,39 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 21. Bake at 325 for 40 minutes
 22. Just prior to serving top with parsley
 
+** Terragon Chicken
+:PROPERTIES:
+:export_date: [2022-08-15 Mon]
+:export_file_name: terragon-chicken
+:export_hugo_custom_front_matter: :servings 12
+:export_hugo_custom_front_matter+: :prep-time 10
+:export_hugo_custom_front_matter+: :cook-time 40
+:export_hugo_custom_front_matter+: :ready-in 50
+:END:
+
+This recipe comes from my aunt-in-law, Kay. My wife had it at her home on a trip up-island while I was stuck at home looking after the dog. My wife raved about it :)
+
+Kay did call for a specific brand of Greek seasoning. I chose to separate that into its material components to make it simpler to prepare. If you can find "Cavender's" all purpose Greek seasoning, use that.
+
+*** Ingredients
+
+- 2-3lbs of chicken (thighs, breast, wings, whatever)
+- 2/3 cup of butter
+- 2 tbsp of [[* Greek Seasoning][greek seasoning]] (or Cavender's, if you can find it)
+- 1 clove of minced garlic
+- 1 tbsp of dried Terragon leaves
+- 1 tsp of dill weed
+- 1 tsp of lemon pepper seasoning (optional)
+
+*** Directions
+
+1. Start pre-heating the oven to 380 degrees
+2. Melt the butter in a microwave or by double-boiling it
+3. Mix the herbs and spices into the butter thoroughly
+4. Place chicken on a baking pan and generously slather it in the seasoned butter
+5. Once oven is heated, put the chicken into the oven
+6. Check the chicken periodically. Cooking should take 30-45 minutes, depending on how much meat & bone you have in your cuts of chicken.
+
 ** Ultra Juicy Grilled BBQ Pork Chops                                   :GF:
 :PROPERTIES:
 :export_date: [2022-03-02 Wed]
@@ -675,43 +706,6 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 1. In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.
 
 ** Mexican Bean Salad                                                 :easy:
-:PROPERTIES:
-:export_date: [2022-07-11 Mon]
-:export_file_name: mexican-bean-salad
-:export_hugo_custom_front_matter: source-url: https://www.allrecipes.com/recipe/14169/mexican-bean-salad/
-:export_hugo_custom_front_matter+: servings: 8
-:export_hugo_custom_front_matter+: prep-time: 15 min
-:export_hugo_custom_front_matter+: cook-time: 0
-:export_hugo_custom_front_matter+: ready-in: 1 hour, 15 minutes
-:END:
-*** Ingredients
-
-- 1 (15 ounce) can black beans, rinsed and drained
-- 1 (15 ounce) can kidney beans, rinsed and drained
-- 1 (15 ounce) can cannellini beans, rinsed and drained
-- 1 green bell pepper, chopped
-- 1 red bell pepper, chopped
-- 1 (10 ounce) package frozen corn kernels, thawed
-- 1 red onion, diced
-- 1/2 cup olive oil
-- 1/2 cup red wine vinegar
-- 1/4 cup chopped fresh cilantro
-- 2 tablespoons fresh lime juice
-- 1 tablespoon lemon juice
-- 1 clove garlic, crushed
-- 2 tablespoons white sugar
-- 1 tablespoon salt
-- 1 1/2 teaspoons ground cumin
-- 1 1/2 teaspoons ground black pepper
-- 1/2 teaspoon chili powder, or to taste
-- 1 dash hot pepper sauce, or to taste
-
-*** Directions
-
-1. Combine beans, bell peppers, corn, and red onion in a large bowl.
-2. Whisk olive oil, vinegar, cilantro, lime juice, lemon juice, garlic, sugar, salt, cumin, and black pepper together in a small bowl. Season with chili powder and hot sauce.
-3. Pour dressing over bean mixture and toss well. Refrigerate until chilled, about 1 hour. Serve cold.
-
 ** Dill Pickles
 :PROPERTIES:
 :export_date: [2022-06-01 Wed]
@@ -754,6 +748,38 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 9. Cool and refrigerate. Let the jars cool to room temperature. If you processed the jars, they can be stored unopened at room temperature. If unprocessed, refrigerate the pickles. The pickles will improve with flavor as they age — try to wait at least 48 hours before cracking them open.
 10. Storing pickles. Canned pickles will keep for at least a year on the shelf and for several weeks in the refrigerator once opened; refrigerator pickles will keep for several weeks.
 
+* Seasoning                                                      :@seasoning:
+** Greek Seasoning
+:PROPERTIES:
+:export_date: [2022-08-15 Mon]
+:source-url: https://thenovicechefblog.com/greek-seasoning/
+:export_file_name: greek-seasoning
+:export_hugo_custom_front_matter: :servings 20
+:export_hugo_custom_front_matter+: :prep-time 5 minutes
+:export_hugo_custom_front_matter+: :ready-in 5 minutes
+:END:
+
+*** Ingredients
+
+- 2 teaspoons salt
+- 2 teaspoons garlic powder
+- 2 teaspoons Greek oregano
+- 2 teaspoons dried basil
+- 1 teaspoon dried onion
+- 1 teaspoon ground black pepper
+- 1 teaspoon dried parsley
+- 1 teaspoon dried dill weed
+- 1 teaspoon dried marjoram
+- 1/2 teaspoon ground thyme
+- 1/4 teaspoon ground cinnamon
+- 1/4 teaspoon ground nutmeg
+  
+*** Directions
+
+1. Combine all ingredients together in a bowl and store in an airtight container for up to one month.
+2. For a smoother texture, you can purée all ingredients for 30-45 seconds in a food processor or use a spice grinder.
+3. Use on meats, vegetables, or combine with olive oil for a great dip for bread or pita chips. It can also be used to make a great Greek salad dressing.
+
 * Soups & Stews
 ** Butternut Squash Soup                                             :@soup:
 :PROPERTIES:
@@ -781,7 +807,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 1. Melt butter in a large pot over medium heat, and cook onion, celery, carrot, potatoes, and squash until lightly browned, about 5 minutes. Pour in enough of the chicken stock to cover vegetables.
 2. Bring to a boil over medium-high heat. Reduce heat to low, cover pot, and simmer until all vegetables are tender, about 40 minutes.
 3. Transfer the soup to a blender, and blend until smooth. Return to the pot, and mix in any remaining stock to reach desired consistency. Season with salt and pepper.
-
+** TODO Cabbage Soup
 ** Lentil Stew                                               :@stew:GF:easy:
 :PROPERTIES:
 :export_date: [2016-05-30 Mon]
@@ -823,7 +849,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 :export_hugo_custom_front_matter+: :prep-time 10
 :export_hugo_custom_front_matter+: :cook-time 30
 :export_hugo_custom_front_matter+: :ready-in 40
-:export_hugo_custom_front_matter+: :source-url https://www.allrecipes.com/recipe/26460/quick-and-easy-chicken-noodle-soup/
+:export_hugo_custom_front_matter+: :source-url https://www.allrecipes.com/recipe/26460/quiCK-and-easy-chicken-noodle-soup/
 
 :END:
 *** Ingredients
@@ -834,7 +860,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 - 4 (14.5 ounce) cans chicken broth
 - 1 (14.5 ounce) can vegetable broth
 - 1/2 pound chopped cooked chicken breast
-- 1  1/2 cups egg noodles
+- 1 1/2 cups egg noodles
 - 1 cup sliced carrots
 - 1/2 teaspoon dried basil
 - 1/2 teaspoon dried oregano
@@ -893,7 +919,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 *** Ingredients
 
 - 1 (6 ounce) can tomato paste
-- 1  1/2 cups water
+- 1 1/2 cups water
 - 1/3 cup extra virgin olive oil
 - 2 cloves garlic, minced
 - salt to taste
