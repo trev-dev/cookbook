@@ -7,6 +7,7 @@ draft: false
 servings: 20
 prep-time: "5 minutes"
 ready-in: "5 minutes"
+source-url: "https://thenovicechefblog.com/greek-seasoning/"
 ---
 
 ## Ingredients {#ingredients}

@@ -753,11 +753,11 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 ** Greek Seasoning
 :PROPERTIES:
 :export_date: [2022-08-15 Mon]
-:source-url: https://thenovicechefblog.com/greek-seasoning/
 :export_file_name: greek-seasoning
 :export_hugo_custom_front_matter: :servings 20
 :export_hugo_custom_front_matter+: :prep-time 5 minutes
 :export_hugo_custom_front_matter+: :ready-in 5 minutes
+:export_hugo_custom_front_matter+: :source-url https://thenovicechefblog.com/greek-seasoning/
 :END:
 
 *** Ingredients
