@@ -553,6 +553,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 :PROPERTIES:
 :export_date: [2022-08-15 Mon]
 :export_file_name: terragon-chicken
+:export_author: Kay H.
 :export_hugo_custom_front_matter: :servings 12
 :export_hugo_custom_front_matter+: :prep-time 10
 :export_hugo_custom_front_matter+: :cook-time 40
