@@ -710,11 +710,11 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 :PROPERTIES:
 :export_date: [2022-07-11 Mon]
 :export_file_name: mexican-bean-salad
-:export_hugo_custom_front_matter: source-url: https://www.allrecipes.com/recipe/14169/mexican-bean-salad/
-:export_hugo_custom_front_matter+: servings: 8
-:export_hugo_custom_front_matter+: prep-time: 15 min
-:export_hugo_custom_front_matter+: cook-time: 0
-:export_hugo_custom_front_matter+: ready-in: 1 hour, 15 minutes
+:export_hugo_custom_front_matter: :source-url https://www.allrecipes.com/recipe/14169/mexican-bean-salad/
+:export_hugo_custom_front_matter+: :servings 8
+:export_hugo_custom_front_matter+: :prep-time 15 min
+:export_hugo_custom_front_matter+: :cook-time 0
+:export_hugo_custom_front_matter+: :ready-in 1 hour, 15 minutes
 :END:
 *** Ingredients
 

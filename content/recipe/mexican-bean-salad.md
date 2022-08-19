@@ -2,9 +2,14 @@
 title: "Mexican Bean Salad"
 author: ["Trev"]
 date: 2022-07-11T00:00:00-07:00
+tags: ["easy"]
 categories: ["side"]
 draft: false
-source-url:: "https://www.allrecipes.com/recipe/14169/mexican-bean-salad/ servings: 8 prep-time: 15 min cook-time: 0 ready-in: 1 hour, 15 minutes"
+source-url: "https://www.allrecipes.com/recipe/14169/mexican-bean-salad/"
+servings: 8
+prep-time: "15 min"
+cook-time: 0
+ready-in: "1 hour, 15 minutes"
 ---
 
 ## Ingredients {#ingredients}
