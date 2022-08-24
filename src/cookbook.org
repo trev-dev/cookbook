@@ -523,7 +523,7 @@ Some basmati or white along with the stuff required to make the Marinade and Cur
 - Italian seasoning
 - Cumin
 - Basil
-
+  
 *** Directions
 
 1. Cut tops off peppers, remove seeds and white part
@@ -566,14 +566,14 @@ Kay did call for a specific brand of Greek seasoning. I chose to separate that i
 
 *** Ingredients
 
-- 2-3lbs of chicken (thighs, breast, wings, whatever)
+- 2-3 lbs of chicken (thighs, breast, wings, whatever)
 - 2/3 cup of butter
 - 2 tbsp of [[* Greek Seasoning][greek seasoning]] (or Cavender's, if you can find it)
 - 1 clove of minced garlic
 - 1 tbsp of dried Terragon leaves
 - 1 tsp of dill weed
 - 1 tsp of lemon pepper seasoning (optional)
-
+  
 *** Directions
 
 1. Start pre-heating the oven to 380 degrees
@@ -582,7 +582,7 @@ Kay did call for a specific brand of Greek seasoning. I chose to separate that i
 4. Place chicken on a baking pan and generously slather it in the seasoned butter
 5. Once oven is heated, put the chicken into the oven
 6. Check the chicken periodically. Cooking should take 30-45 minutes, depending on how much meat & bone you have in your cuts of chicken.
-
+   
 ** Ultra Juicy Grilled BBQ Pork Chops                                   :GF:
 :PROPERTIES:
 :export_date: [2022-03-02 Wed]
@@ -882,6 +882,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 1. Melt butter in a large pot over medium heat, and cook onion, celery, carrot, potatoes, and squash until lightly browned, about 5 minutes. Pour in enough of the chicken stock to cover vegetables.
 2. Bring to a boil over medium-high heat. Reduce heat to low, cover pot, and simmer until all vegetables are tender, about 40 minutes.
 3. Transfer the soup to a blender, and blend until smooth. Return to the pot, and mix in any remaining stock to reach desired consistency. Season with salt and pepper.
+
 ** TODO Cabbage Soup
 ** Lentil Stew                                               :@stew:GF:easy:
 :PROPERTIES:
@@ -980,6 +981,48 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 3. Add beef broth, carrots, potatoes, onion, celery, Worcestershire sauce, paprika, garlic, and bay leave; stir to combine.
 4. Cover, and cook until beef is tender enough to cut with a spoon, on Low for 8 to 12 hours, or on High for 4 to 6 hours.
    
+** Vegan Quinoa Chili                                                :vegan:
+:PROPERTIES:
+:export_date: [2022-08-23 Tue]
+:export_file_name: vegan-quinoa-chili
+:export_hugo_custom_front_matter: :servings 12
+:export_hugo_custom_front_matter+: :prep-time 20 min
+:export_hugo_custom_front_matter+: :cook-time 30 min
+:export_hugo_custom_front_matter+: :ready-in 50 min
+:END:
+
+I spent a couple of years practicing a vegetarian diet. This was my favorite take away from that era.
+
+*** Ingredients
+
+- 1 container (2 1/2 cup 125mls ea.), Chick Peas
+- 1 tablespoon, Oil - Olive
+- 1 small, Onions - Raw
+- 3 clove, Garlic - Raw
+- 1 pepper, Peppers - Jalapeno, raw
+- 1 large (7-1/4" to 8-1/2" long), Carrots - Raw
+- 2 stalk large (11"-12" long), Celery - Raw
+- 1 medium (8oz), Green Bell Pepper
+- 1 pepper, Red Bell Pepper
+- 1 cup, chopped, Squash - Zucchini, includes skin, raw
+- 2 cup, Beans - Kidney, canned
+- 2 cup, Organic Black Beans Canned
+- 2 cup, Canned Diced Tomatoes
+- 2 cup, Tomato Sauce - Crushed Tomatoes
+- 3 tbsp, Spices - Chili powder
+- 1 tsp, Ground Cumin
+- 0.50 cup, Quinoa
+- Salt & Pepper to taste
+
+*** Directions
+
+1. Cook the Quinoa similar to how you would cook rice with a 2 to 1 water to quinoa ratio. Bring water to a boil, then simmer with a cover for 10 minutes. Stir regularily to avoid sticking/burning. Set aside.
+2. Heat cooking oil in a large pot to medium heat
+3. Cook onion & garlic for a couple of minutes
+4. Add all other non-canned vegetables. Cook until slightly soft.
+5. Rinse off the canned beans and chickpeas
+6. Add all other ingredients to the pot. Increase heat to high until it boils, then simmer for 20-30 minutes.
+
 * Sauces                                                             :@sauce:
 ** Easy Pizza Sauce I
 :PROPERTIES:
