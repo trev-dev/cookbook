@@ -854,6 +854,34 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 1. Combine all ingredients together in a bowl and store in an airtight container for up to one month.
 2. For a smoother texture, you can purée all ingredients for 30-45 seconds in a food processor or use a spice grinder.
 3. Use on meats, vegetables, or combine with olive oil for a great dip for bread or pita chips. It can also be used to make a great Greek salad dressing.
+** BBQ Pork Dry Rub
+:PROPERTIES:
+:export_date: [2022-08-26 Fri]
+:export_file_name: bbq-pork-dry-rub
+:export_hugo_custom_front_matter: :servings 4
+:export_hugo_custom_front_matter+: :prep-time 5 minutes
+:export_hugo_custom_front_matter+: :ready-in 5 minutes
+:export_hugo_custom_front_matter+: :source-url https://www.yummly.com/recipe/Chili-Cumin-Pork-Rub-2112963
+:END:
+
+This is a nice Cajun style dry dub for BBQ pork. This is good for about a pound of pork.
+
+*** Ingredients
+
+- 1 Tbsp. chili powder
+- 1 1/2 tsp. cumin
+- 1 1/2 tsp. garlic powder
+- 1 1/2 tsp. oregano
+- 3/4 tsp. sea salt
+- 1/2 tsp. black pepper
+- 1/4 tsp. cinnamon
+
+*** Directions
+
+1. Whisk all of the ingredients in a bowl
+2. Coat pork thoroughly
+3. Store pork in a air tight container at room temperature until ready to cook, but obviously no longer than a few hours
+4. BBQ the pork
 
 * Soups & Stews
 ** Butternut Squash Soup                                             :@soup:
