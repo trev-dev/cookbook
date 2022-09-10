@@ -747,6 +747,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 ** Potato Salad                                                       :easy:
 :PROPERTIES:
 :export_date: [2022-08-19 Fri]
+:export_hugo_lastmod: [2022-09-10 Sat]
 :export_file_name: potato-salad
 :export_hugo_custom_front_matter: :servings 8
 :export_hugo_custom_front_matter+: :prep-time 25 min
@@ -758,7 +759,7 @@ It's worth noting that this roasting and seasoning techiques work well for simpl
 
 - 4 russet potatoes
 - 5 eggs
-- 1/2 cup pickle juice
+- 1/4 cup pickle juice
 - 2 pickles
 - Green onion
 - 1 tbsp mustard

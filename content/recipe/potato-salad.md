@@ -2,6 +2,7 @@
 title: "Potato Salad"
 author: ["Trev"]
 date: 2022-08-19T00:00:00-07:00
+lastmod: 2022-09-10T00:00:00-07:00
 tags: ["easy"]
 categories: ["side"]
 draft: false
@@ -15,7 +16,7 @@ ready-in: "1 hour, 25 minutes"
 
 -   4 russet potatoes
 -   5 eggs
--   1/2 cup pickle juice
+-   1/4 cup pickle juice
 -   2 pickles
 -   Green onion
 -   1 tbsp mustard
