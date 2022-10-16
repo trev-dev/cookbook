@@ -1,7 +1,7 @@
 ---
 title: Cabbage Soup
 author: Erik Akis
-date: 2022-10-16 14:30:00.002065326 -0700 PDT m=+0.061060635
+date: 2022-10-16T14:30-0800
 categories: [soup]
 servings: 10
 prep-time: 10 min
@@ -43,5 +43,5 @@ This recipe was found in my local newspaper.
 5.  Add cabbage, broth, vegetable juice, diced tomatoes, tomato sauce, brown sugar, worchestershire sauce and the bay leaf
 6.  Season with salt and pepper to taste
 7.  Start cooking the rice
-8.  Bring soup to a simmer.  Small bubbles should just break the surface of the soup.  Adjust the heat and maintain simmer for 20-25 minutes. 
+8.  Bring soup to a simmer.  Small bubbles should just break the surface of the soup.  Adjust the heat and maintain simmer for 20-25 minutes.
 9.  Mix the rice and green onions in.  Keep cooking until rice is heated up then serve
