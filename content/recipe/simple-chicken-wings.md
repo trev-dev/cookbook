@@ -1,7 +1,7 @@
 ---
 title: "Simple Chicken Wings"
 author: ["Trev"]
-date: 2023-07-02T20:30
+date: 2023-07-02T20:30:00-07:00
 tags: ["GF", "easy"]
 categories: ["entree"]
 draft: false
@@ -9,7 +9,7 @@ servings: 12
 prep-time: 2 hours 10 mins
 cook-time: 1 hour
 ready-in: 3 hours
-source-url: "https://www.allrecipes.com/recipe/26460/quick-and-easy-chicken-noodle-soup/"
+source-url: "https://www.allrecipes.com/recipe/230873/amazing-and-easy-chicken-wings/"
 ---
 
 Great for a party.  Cut the ingredients in half if you want a modest amount.
