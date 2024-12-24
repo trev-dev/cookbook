@@ -1,1 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>side on The Open Source Cookbook</title><link>https://trev-dev.github.io/cookbook/categories/side/</link><description>Recent content in side on The Open Source Cookbook</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Aug 2022 00:00:00 -0700</lastBuildDate><atom:link href="https://trev-dev.github.io/cookbook/categories/side/index.xml" rel="self" type="application/rss+xml"/><item><title>Potato Salad</title><link>https://trev-dev.github.io/cookbook/recipe/potato-salad/</link><pubDate>Fri, 19 Aug 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/potato-salad/</guid><description>Ingredients 4 russet potatoes 5 eggs 1/4 cup pickle juice 2 pickles Green onion 1 tbsp mustard 1/2 cup mayo 1 tbsp dill weed 1 clove of minced garlic Bacon (optional) Directions Boil your eggs Place them in a pot of water, bring them to a boil Once at a full boil, turn off the element and wait 10 minutes Douse eggs in cold water and let them cool Cook your optional bacon Peel your potatoes and chop them into 1 inch halves or quarters Put the potatoes in a large pot with a generous amount of water to submerge them Boil the potatoes until the soften.</description></item><item><title>Mexican Bean Salad</title><link>https://trev-dev.github.io/cookbook/recipe/mexican-bean-salad/</link><pubDate>Mon, 11 Jul 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/mexican-bean-salad/</guid><description>Ingredients 1 (15 ounce) can black beans, rinsed and drained 1 (15 ounce) can kidney beans, rinsed and drained 1 (15 ounce) can cannellini beans, rinsed and drained 1 green bell pepper, chopped 1 red bell pepper, chopped 1 (10 ounce) package frozen corn kernels, thawed 1 red onion, diced 1/2 cup olive oil 1/2 cup red wine vinegar 1/4 cup chopped fresh cilantro 2 tablespoons fresh lime juice 1 tablespoon lemon juice 1 clove garlic, crushed 2 tablespoons white sugar 1 tablespoon salt 1 1/2 teaspoons ground cumin 1 1/2 teaspoons ground black pepper 1/2 teaspoon chili powder, or to taste 1 dash hot pepper sauce, or to taste Directions Combine beans, bell peppers, corn, and red onion in a large bowl.</description></item><item><title>Dill Pickles</title><link>https://trev-dev.github.io/cookbook/recipe/dill-pickles/</link><pubDate>Wed, 01 Jun 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/dill-pickles/</guid><description>Equipment Chef&amp;rsquo;s knife Cutting board 2 wide-mouth pint jars with lids Large pot, if canning Ingredients 1 1/2 pounds Kirby or Persian cucumbers 4 cloves garlic, peeled and smashed 2 teaspoons dill seeds 1/2 teaspoon red pepper flakes (optional) 1 cup apple cider vinegar (or white vinegar) 1 cup water 1 1/2 tablespoons pickling salt or kosher salt Directions Prepare the jars. If you are planning to can your pickles for long-term storage, bring a large pot of water to a boil and sterilize 2 wide-mouth pint jars and their lids.</description></item><item><title>Corn Bread</title><link>https://trev-dev.github.io/cookbook/recipe/corn-bread/</link><pubDate>Sun, 08 May 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/corn-bread/</guid><description>Ingredients 1 cup of cornmeal 3/4 cup of all-purpose flour 2-4 tablespoons of sugar 2 1/2 teaspoons of baking powder 1/2 teaspoon of salt 1 cup of milk 2 eggs 1/4 cup of butter, melted Directions Preheat oven to 400°F. Grease an 8x8x2-inch square or 9x1 1/2-inch round baking pan; set aside. In a medium bowl stir together cornmeal, flour, sugar, baking powder, and salt; set aside. In a small bowl whisk together the milk, eggs, and butter.</description></item><item><title>Guacamole</title><link>https://trev-dev.github.io/cookbook/recipe/guacamole/</link><pubDate>Thu, 28 Apr 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/guacamole/</guid><description>Ingredients 3 avocados - peeled, pitted, and mashed 1 lime, juiced 1 teaspoon salt 1/2 cup diced onion 3 tablespoons chopped fresh cilantro 2 roma (plum) tomatoes, diced 1 teaspoon minced garlic 1 pinch ground cayenne pepper Directions In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Side on The Open Source Cookbook</title><link>https://trev-dev.github.io/cookbook/categories/side/</link><description>Recent content in Side on The Open Source Cookbook</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 -0700</lastBuildDate><atom:link href="https://trev-dev.github.io/cookbook/categories/side/index.xml" rel="self" type="application/rss+xml"/><item><title>Potato Salad</title><link>https://trev-dev.github.io/cookbook/recipe/potato-salad/</link><pubDate>Fri, 19 Aug 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/potato-salad/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>4 russet potatoes&lt;/li>
+&lt;li>5 eggs&lt;/li>
+&lt;li>1/4 cup pickle juice&lt;/li>
+&lt;li>2 pickles&lt;/li>
+&lt;li>Green onion&lt;/li>
+&lt;li>1 tbsp mustard&lt;/li>
+&lt;li>1/2 cup mayo&lt;/li>
+&lt;li>1 tbsp dill weed&lt;/li>
+&lt;li>1 clove of minced garlic&lt;/li>
+&lt;li>Bacon (optional)&lt;/li>
+&lt;/ul>
+&lt;h2 id="directions">Directions&lt;/h2>
+&lt;ol>
+&lt;li>Boil your eggs
+&lt;ul>
+&lt;li>Place them in a pot of water, bring them to a boil&lt;/li>
+&lt;li>Once at a full boil, turn off the element and wait 10 minutes&lt;/li>
+&lt;li>Douse eggs in cold water and let them cool&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cook your optional bacon&lt;/li>
+&lt;li>Peel your potatoes and chop them into 1 inch halves or quarters&lt;/li>
+&lt;li>Put the potatoes in a large pot with a generous amount of water to submerge them&lt;/li>
+&lt;li>Boil the potatoes until the soften. Not too much! They should only require 10-15 minutes of boiling.&lt;/li>
+&lt;li>Peel your tear apart your eggs.&lt;/li>
+&lt;li>Put all of the ingredients together in the large pot and mix thoroughly&lt;/li>
+&lt;li>Refrigerate until cool. No one likes hot potato salad.&lt;/li>
+&lt;/ol></description></item><item><title>Mexican Bean Salad</title><link>https://trev-dev.github.io/cookbook/recipe/mexican-bean-salad/</link><pubDate>Mon, 11 Jul 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/mexican-bean-salad/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>1 (15 ounce) can black beans, rinsed and drained&lt;/li>
+&lt;li>1 (15 ounce) can kidney beans, rinsed and drained&lt;/li>
+&lt;li>1 (15 ounce) can cannellini beans, rinsed and drained&lt;/li>
+&lt;li>1 green bell pepper, chopped&lt;/li>
+&lt;li>1 red bell pepper, chopped&lt;/li>
+&lt;li>1 (10 ounce) package frozen corn kernels, thawed&lt;/li>
+&lt;li>1 red onion, diced&lt;/li>
+&lt;li>1/2 cup olive oil&lt;/li>
+&lt;li>1/2 cup red wine vinegar&lt;/li>
+&lt;li>1/4 cup chopped fresh cilantro&lt;/li>
+&lt;li>2 tablespoons fresh lime juice&lt;/li>
+&lt;li>1 tablespoon lemon juice&lt;/li>
+&lt;li>1 clove garlic, crushed&lt;/li>
+&lt;li>2 tablespoons white sugar&lt;/li>
+&lt;li>1 tablespoon salt&lt;/li>
+&lt;li>1 1/2 teaspoons ground cumin&lt;/li>
+&lt;li>1 1/2 teaspoons ground black pepper&lt;/li>
+&lt;li>1/2 teaspoon chili powder, or to taste&lt;/li>
+&lt;li>1 dash hot pepper sauce, or to taste&lt;/li>
+&lt;/ul>
+&lt;h2 id="directions">Directions&lt;/h2>
+&lt;ol>
+&lt;li>Combine beans, bell peppers, corn, and red onion in a large bowl.&lt;/li>
+&lt;li>Whisk olive oil, vinegar, cilantro, lime juice, lemon juice, garlic, sugar, salt, cumin, and black pepper together in a small bowl. Season with chili powder and hot sauce.&lt;/li>
+&lt;li>Pour dressing over bean mixture and toss well. Refrigerate until chilled, about 1 hour. Serve cold.&lt;/li>
+&lt;/ol></description></item><item><title>Dill Pickles</title><link>https://trev-dev.github.io/cookbook/recipe/dill-pickles/</link><pubDate>Wed, 01 Jun 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/dill-pickles/</guid><description>&lt;h2 id="equipment">Equipment&lt;/h2>
+&lt;ul>
+&lt;li>Chef&amp;rsquo;s knife&lt;/li>
+&lt;li>Cutting board&lt;/li>
+&lt;li>2 wide-mouth pint jars with lids&lt;/li>
+&lt;li>Large pot, if canning&lt;/li>
+&lt;/ul>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>1 1/2 pounds Kirby or Persian cucumbers&lt;/li>
+&lt;li>4 cloves garlic, peeled and smashed&lt;/li>
+&lt;li>2 teaspoons dill seeds&lt;/li>
+&lt;li>1/2 teaspoon red pepper flakes (optional)&lt;/li>
+&lt;li>1 cup apple cider vinegar (or white vinegar)&lt;/li>
+&lt;li>1 cup water&lt;/li>
+&lt;li>1 1/2 tablespoons pickling salt or kosher salt&lt;/li>
+&lt;/ul>
+&lt;h2 id="directions">Directions&lt;/h2>
+&lt;ol>
+&lt;li>Prepare the jars. If you are planning to can your pickles for long-term storage, bring a large pot of water to a boil and sterilize 2 wide-mouth pint jars and their lids. If you are planning to make refrigerator pickles, simply washing the jars and lids is fine.&lt;/li>
+&lt;li>Prepare the cucumbers. Wash and dry the cucumbers. Trim away the blossom or stem end of the cucumber, which contains enzymes that can lead to limp pickles. Leave the cucumbers whole, cut them into spears, or slice them into coins, as desired.&lt;/li>
+&lt;li>Add the spices to the jars. Divide the garlic, dill seed, and red pepper flakes between the pint jars: 2 smashed cloves, 1 teaspoon dill seed, and 1/4 teaspoon red pepper flakes (if using) per jar.&lt;/li>
+&lt;li>Pack the cucumbers into the jars. Pack the cucumbers into the jars. Trim the ends if they stand more than 1/2 inch below the top of the jar. Pack them in as tightly as you can without smashing the cucumbers.&lt;/li>
+&lt;li>Bring the pickling brine to a boil. Place the vinegar, water, and salt in a small saucepan over high heat and bring to a rolling boil. Pour the brine over the pickles, filling each jar to within 1/2-inch of the top. You may not use all the brine.&lt;/li>
+&lt;li>Remove any air bubbles. Gently tap the jars against the counter a few times to remove all the air bubbles. Top off with more pickling brine if necessary.&lt;/li>
+&lt;li>Tighten the lids. Place the lids over the jars and screw on the rings until tight.&lt;/li>
+&lt;li>Optional — Process the pickles for longer storage. For longer storage, place the jars in a boiling pot of water to can them. When the water comes back to a boil, set the timer for 5 minutes and remove the jars immediately. Make sure the lids pop down; if they do not, refrigerate those pickles and eat them first.&lt;/li>
+&lt;li>Cool and refrigerate. Let the jars cool to room temperature. If you processed the jars, they can be stored unopened at room temperature. If unprocessed, refrigerate the pickles. The pickles will improve with flavor as they age — try to wait at least 48 hours before cracking them open.&lt;/li>
+&lt;li>Storing pickles. Canned pickles will keep for at least a year on the shelf and for several weeks in the refrigerator once opened; refrigerator pickles will keep for several weeks.&lt;/li>
+&lt;/ol></description></item><item><title>Corn Bread</title><link>https://trev-dev.github.io/cookbook/recipe/corn-bread/</link><pubDate>Sun, 08 May 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/corn-bread/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>1 cup of cornmeal&lt;/li>
+&lt;li>3/4 cup of all-purpose flour&lt;/li>
+&lt;li>2-4 tablespoons of sugar&lt;/li>
+&lt;li>2 1/2 teaspoons of baking powder&lt;/li>
+&lt;li>1/2 teaspoon of salt&lt;/li>
+&lt;li>1 cup of milk&lt;/li>
+&lt;li>2 eggs&lt;/li>
+&lt;li>1/4 cup of butter, melted&lt;/li>
+&lt;/ul>
+&lt;h2 id="directions">Directions&lt;/h2>
+&lt;ol>
+&lt;li>Preheat oven to 400°F. Grease an 8x8x2-inch square or 9x1 1/2-inch round baking pan; set aside. In a medium bowl stir together cornmeal, flour, sugar, baking powder, and salt; set aside.&lt;/li>
+&lt;li>In a small bowl whisk together the milk, eggs, and butter. Add milk mixture all at once to cornmeal mixture. Stir just until moistened. Pour batter into the prepared pan.&lt;/li>
+&lt;li>Bake about 20 minutes or until edges are golden brown. Cool slightly; serve warm.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Alternatively:&lt;/strong>&lt;/p></description></item><item><title>Guacamole</title><link>https://trev-dev.github.io/cookbook/recipe/guacamole/</link><pubDate>Thu, 28 Apr 2022 00:00:00 -0700</pubDate><guid>https://trev-dev.github.io/cookbook/recipe/guacamole/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>3 avocados - peeled, pitted, and mashed&lt;/li>
+&lt;li>1 lime, juiced&lt;/li>
+&lt;li>1 teaspoon salt&lt;/li>
+&lt;li>1/2 cup diced onion&lt;/li>
+&lt;li>3 tablespoons chopped fresh cilantro&lt;/li>
+&lt;li>2 roma (plum) tomatoes, diced&lt;/li>
+&lt;li>1 teaspoon minced garlic&lt;/li>
+&lt;li>1 pinch ground cayenne pepper&lt;/li>
+&lt;/ul>
+&lt;h2 id="directions">Directions&lt;/h2>
+&lt;ol>
+&lt;li>In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately.&lt;/li>
+&lt;/ol></description></item></channel></rss>
