@@ -1,7 +1,7 @@
 ---
 title: Cabbage Soup
 author: Erik Akis
-date: 2022-10-16T14:30-0800
+date: 2022-10-16T14:30:00-0800
 categories: [soup]
 servings: 10
 prep-time: 10 min
