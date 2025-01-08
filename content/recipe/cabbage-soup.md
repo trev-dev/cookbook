@@ -1,6 +1,6 @@
 ---
 title: Cabbage Soup
-author: Erik Akis
+author: ["Erik Akis"]
 date: 2022-10-16T14:30:00-0800
 categories: [soup]
 servings: 10
