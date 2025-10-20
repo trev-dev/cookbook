@@ -13,12 +13,12 @@ ready-in: 5
 
 ## Ingredients {#ingredients}
 
--   1/2 cup mayonnaise
--   2 tablespoons white sugar
--   1  1/2 tablespoons lemon juice
--   1 tablespoon vinegar
--   1/2 teaspoon ground black pepper
--   1/4 teaspoon salt
+-  1/2 cup mayonnaise
+-  2 tablespoons white sugar
+-  1 1/2 tablespoons lemon juice
+-  1 tablespoon vinegar
+-  1/2 teaspoon ground black pepper
+-  1/4 teaspoon salt
 
 
 ## Directions {#directions}
